@@ -1,0 +1,1198 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	"Year"	"Year Code"	"Month"	"Month Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	47	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	36	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	41	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	44	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	38	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	46	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Fresno County, CA"	"06019"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Kern County, CA"	"06029"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Kern County, CA"	"06029"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"May, 2009"	"2009/05"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"May, 2013"	"2013/05"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Los Angeles County, CA"	"06037"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"Orange County, CA"	"06059"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Riverside County, CA"	"06065"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Sacramento County, CA"	"06067"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"Sacramento County, CA"	"06067"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Sacramento County, CA"	"06067"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Bernardino County, CA"	"06071"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"California"	"06"	"San Diego County, CA"	"06073"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Francisco County, CA"	"06075"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"San Joaquin County, CA"	"06077"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"California"	"06"	"Ventura County, CA"	"06111"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Ventura County, CA"	"06111"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Ventura County, CA"	"06111"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"California"	"06"	"Ventura County, CA"	"06111"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"California"	"06"	"Ventura County, CA"	"06111"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Adams County, CO"	"08001"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Arapahoe County, CO"	"08005"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Colorado"	"08"	"Denver County, CO"	"08031"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"El Paso County, CO"	"08041"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Fairfield County, CT"	"09001"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"Hartford County, CT"	"09003"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New Haven County, CT"	"09009"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"New London County, CT"	"09011"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"New Castle County, DE"	"10003"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Black or African American"	"2054-5"	15	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"May, 2016"	"2016/05"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Black or African American"	"2054-5"	15	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Black or African American"	"2054-5"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"District of Columbia, DC"	"11001"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Florida"	"12"	"Broward County, FL"	"12011"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Duval County, FL"	"12031"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"Oct., 2012"	"2012/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Hillsborough County, FL"	"12057"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Lee County, FL"	"12071"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Manatee County, FL"	"12081"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2012"	"2012"	"Sep., 2012"	"2012/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Miami-Dade County, FL"	"12086"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Orange County, FL"	"12095"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Florida"	"12"	"Palm Beach County, FL"	"12099"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pasco County, FL"	"12101"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Feb., 2010"	"2010/02"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Apr., 2010"	"2010/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Pinellas County, FL"	"12103"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Sarasota County, FL"	"12115"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Seminole County, FL"	"12117"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Seminole County, FL"	"12117"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Florida"	"12"	"Volusia County, FL"	"12127"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Cobb County, GA"	"13067"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Georgia"	"13"	"Fulton County, GA"	"13121"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Jan., 2009"	"2009/01"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Feb., 2009"	"2009/02"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Mar., 2009"	"2009/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Apr., 2009"	"2009/04"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"May, 2009"	"2009/05"	"Black or African American"	"2054-5"	14	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"May, 2009"	"2009/05"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"Black or African American"	"2054-5"	21	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Jun., 2009"	"2009/06"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Jul., 2009"	"2009/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Aug., 2009"	"2009/08"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Sep., 2009"	"2009/09"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Oct., 2009"	"2009/10"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Nov., 2009"	"2009/11"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2009"	"2009"	"Dec., 2009"	"2009/12"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Jan., 2010"	"2010/01"	"White"	"2106-3"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Mar., 2010"	"2010/03"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"May, 2010"	"2010/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"Black or African American"	"2054-5"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Jun., 2010"	"2010/06"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Jul., 2010"	"2010/07"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Aug., 2010"	"2010/08"	"White"	"2106-3"	20	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Sep., 2010"	"2010/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Nov., 2010"	"2010/11"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2010"	"2010"	"Dec., 2010"	"2010/12"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Jan., 2011"	"2011/01"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Feb., 2011"	"2011/02"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Mar., 2011"	"2011/03"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Apr., 2011"	"2011/04"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"May, 2011"	"2011/05"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Jun., 2011"	"2011/06"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Jul., 2011"	"2011/07"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Aug., 2011"	"2011/08"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Sep., 2011"	"2011/09"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Oct., 2011"	"2011/10"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Nov., 2011"	"2011/11"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Jan., 2012"	"2012/01"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Feb., 2012"	"2012/02"	"White"	"2106-3"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Mar., 2012"	"2012/03"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Apr., 2012"	"2012/04"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"May, 2012"	"2012/05"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Jun., 2012"	"2012/06"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Jul., 2012"	"2012/07"	"White"	"2106-3"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Aug., 2012"	"2012/08"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Nov., 2012"	"2012/11"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2012"	"2012"	"Dec., 2012"	"2012/12"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Feb., 2013"	"2013/02"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Mar., 2013"	"2013/03"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Apr., 2013"	"2013/04"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"May, 2013"	"2013/05"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"May, 2013"	"2013/05"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Jun., 2013"	"2013/06"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Jul., 2013"	"2013/07"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Aug., 2013"	"2013/08"	"White"	"2106-3"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Sep., 2013"	"2013/09"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Oct., 2013"	"2013/10"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Nov., 2013"	"2013/11"	"White"	"2106-3"	21	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"Black or African American"	"2054-5"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2013"	"2013"	"Dec., 2013"	"2013/12"	"White"	"2106-3"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Jan., 2014"	"2014/01"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Feb., 2014"	"2014/02"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Mar., 2014"	"2014/03"	"White"	"2106-3"	25	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Apr., 2014"	"2014/04"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"May, 2014"	"2014/05"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"May, 2014"	"2014/05"	"White"	"2106-3"	36	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Jun., 2014"	"2014/06"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Jul., 2014"	"2014/07"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	29	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Sep., 2014"	"2014/09"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"Black or African American"	"2054-5"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Nov., 2014"	"2014/11"	"White"	"2106-3"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"Black or African American"	"2054-5"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2014"	"2014"	"Dec., 2014"	"2014/12"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Jan., 2015"	"2015/01"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"Black or African American"	"2054-5"	21	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Feb., 2015"	"2015/02"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"Black or African American"	"2054-5"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Mar., 2015"	"2015/03"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"Black or African American"	"2054-5"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Apr., 2015"	"2015/04"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"May, 2015"	"2015/05"	"Black or African American"	"2054-5"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"May, 2015"	"2015/05"	"White"	"2106-3"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"Black or African American"	"2054-5"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Jun., 2015"	"2015/06"	"White"	"2106-3"	28	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"Black or African American"	"2054-5"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"Black or African American"	"2054-5"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Aug., 2015"	"2015/08"	"White"	"2106-3"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"Black or African American"	"2054-5"	18	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"Black or African American"	"2054-5"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Oct., 2015"	"2015/10"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Nov., 2015"	"2015/11"	"White"	"2106-3"	34	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"Black or African American"	"2054-5"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2015"	"2015"	"Dec., 2015"	"2015/12"	"White"	"2106-3"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"Black or African American"	"2054-5"	20	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Jan., 2016"	"2016/01"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"Black or African American"	"2054-5"	21	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Feb., 2016"	"2016/02"	"White"	"2106-3"	42	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"Black or African American"	"2054-5"	29	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	42	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"Black or African American"	"2054-5"	34	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	53	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"May, 2016"	"2016/05"	"Black or African American"	"2054-5"	30	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"May, 2016"	"2016/05"	"White"	"2106-3"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"Black or African American"	"2054-5"	32	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Jun., 2016"	"2016/06"	"White"	"2106-3"	37	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"Black or African American"	"2054-5"	32	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Jul., 2016"	"2016/07"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"Black or African American"	"2054-5"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"Black or African American"	"2054-5"	25	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Sep., 2016"	"2016/09"	"White"	"2106-3"	43	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	32	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"Black or African American"	"2054-5"	35	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	39	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"Black or African American"	"2054-5"	41	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Cook County, IL"	"17031"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	52	Not Applicable	Not Applicable
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"2015"	"2015"	"Jul., 2015"	"2015/07"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"DuPage County, IL"	"17043"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Lake County, IL"	"17097"	"2010"	"2010"	"Oct., 2010"	"2010/10"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Will County, IL"	"17197"	"2014"	"2014"	"Oct., 2014"	"2014/10"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Will County, IL"	"17197"	"2016"	"2016"	"Oct., 2016"	"2016/10"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"2013"	"2013"	"Jan., 2013"	"2013/01"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"2015"	"2015"	"Sep., 2015"	"2015/09"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"Winnebago County, IL"	"17201"	"2016"	"2016"	"Mar., 2016"	"2016/03"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"2014"	"2014"	"Aug., 2014"	"2014/08"	"White"	"2106-3"	14	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"2016"	"2016"	"Apr., 2016"	"2016/04"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"2016"	"2016"	"Aug., 2016"	"2016/08"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"2016"	"2016"	"Nov., 2016"	"2016/11"	"White"	"2106-3"	13	Not Applicable	Not Applicable
+	"Indiana"	"18"	"Marion County, IN"	"18097"	"2016"	"2016"	"Dec., 2016"	"2016/12"	"White"	"2106-3"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"Polk County, IA"	"19153"	"2011"	"2011"	"Dec., 2011"	"2011/12"	"White"	"2106-3"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: T40.0 (Opium), T40.1 (Heroin), T40.2 (Other opioids), T40.3 (Methadone), T40.5 (Cocaine)"
+"Place of Death: All"
+"Race: All"
+"States: Alabama (01), Alaska (02), Arizona (04), Arkansas (05), California (06), Colorado (08), Connecticut (09), Delaware (10),"
+"District of Columbia (11), Florida (12), Georgia (13), Hawaii (15), Idaho (16), Illinois (17), Indiana (18), Iowa (19), Kansas"
+"(20)"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: All"
+"Weekday: All"
+"Year/Month: 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016"
+"Group By: State, County, Year, Month, Race"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 29, 2018 11:23:32 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 29, 2018 11:23:32 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"4. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"5. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code"
+"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational"
+"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year"
+"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
