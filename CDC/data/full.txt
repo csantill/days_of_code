@@ -1,4 +1,4 @@
-"Notes"	"Multiple Cause of death"	"Multiple Cause of death Code"	"State"	"State Code"	"County"	"County Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Multiple Cause of death"	"Multiple Cause of death Code"	"State"	"State Code"	"County"	"County Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
 	"Heroin"	"T40.1"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Mar., 2014"	"2014/03"	12	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2014"	"2014"	"Aug., 2014"	"2014/08"	10	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"Alabama"	"01"	"Jefferson County, AL"	"01073"	"2015"	"2015"	"Mar., 2015"	"2015/03"	10	Not Applicable	Not Applicable
@@ -971,7 +971,7 @@
 	"Other and unspecified narcotics"	"T40.6"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2000"	"2000"	"Jan., 2000"	"2000/01"	12	Not Applicable	Not Applicable
 	"Other and unspecified narcotics"	"T40.6"	"Arizona"	"04"	"Pima County, AZ"	"04019"	"2000"	"2000"	"Apr., 2000"	"2000/04"	11	Not Applicable	Not Applicable
 	"Other and unspecified narcotics"	"T40.6"	"Colorado"	"08"	"Denver County, CO"	"08031"	"2006"	"2006"	"Oct., 2006"	"2006/10"	11	Not Applicable	Not Applicable
-"Heroin"	"T40.1"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"2015"	"2015"	"Sep., 2015"	"2015/09"	11	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"2015"	"2015"	"Sep., 2015"	"2015/09"	11	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"Kentucky"	"21"	"Jefferson County, KY"	"21111"	"2016"	"2016"	"Dec., 2016"	"2016/12"	16	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"Maryland"	"24"	"Anne Arundel County, MD"	"24003"	"2016"	"2016"	"May, 2016"	"2016/05"	11	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"Maryland"	"24"	"Baltimore County, MD"	"24005"	"2015"	"2015"	"Nov., 2015"	"2015/11"	10	Not Applicable	Not Applicable
@@ -1605,7 +1605,7 @@
 	"Other and unspecified narcotics"	"T40.6"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"2015"	"2015"	"Sep., 2015"	"2015/09"	13	Not Applicable	Not Applicable
 	"Other and unspecified narcotics"	"T40.6"	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	"2016"	"2016"	"Jul., 2016"	"2016/07"	11	Not Applicable	Not Applicable
 	"Other and unspecified narcotics"	"T40.6"	"Minnesota"	"27"	"Hennepin County, MN"	"27053"	"2008"	"2008"	"May, 2008"	"2008/05"	11	Not Applicable	Not Applicable
-    "Heroin"	"T40.1"	"Nevada"	"32"	"Clark County, NV"	"32003"	"2014"	"2014"	"Nov., 2014"	"2014/11"	10	Not Applicable	Not Applicable
+	"Heroin"	"T40.1"	"Nevada"	"32"	"Clark County, NV"	"32003"	"2014"	"2014"	"Nov., 2014"	"2014/11"	10	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"2015"	"2015"	"Aug., 2015"	"2015/08"	10	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"New Jersey"	"34"	"Bergen County, NJ"	"34003"	"2016"	"2016"	"Dec., 2016"	"2016/12"	11	Not Applicable	Not Applicable
 	"Heroin"	"T40.1"	"New Jersey"	"34"	"Essex County, NJ"	"34013"	"2016"	"2016"	"Apr., 2016"	"2016/04"	15	Not Applicable	Not Applicable

@@ -1,13 +1,42 @@
-Version: 1.0
+---
+title: "Days of Code"
+author: "Carlos Santillan"
+date: "February 10, 2018"
+output: html_document
+---
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
+setwd("F:/Development/days_of_code")
+```
 
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+## R Markdown
+
+
+```{r libraries}
+library(tidyverse)
+```
+
+## load the data
+
+
+
+```{r pressure, echo=FALSE}
+
+cdc.state.data        <- read_tsv("CDC/data/statefull.txt")
+colnames(cdc.state.data) <- make.names(colnames(cdc.state.data))
+cdc.state.data$Notes  <- cdc.data$Notes <- NULL
+cdc.state.data$Deaths <- as.integer(cdc.data$Deaths)
+
+cdc.state.data %>% separate(Month.Code)
+
+
+```
+```{r explore, echo=FALSE}
+str(cdc.data)
+cdc.data %>% filter(Year==2016) %>% select(Deaths) %>%sum()
+cdc.data %>% filter(Year==2016,State=="Texas") %>% select(Deaths) %>%sum()
+cdc.data %>% filter(Year==2016,State=="Texas") %>% group_by(Month)  %>% select(Deaths) %>%sum()
+
+```
