@@ -61,8 +61,11 @@ colnames(cdc.state.data) <- make.names(colnames(cdc.state.data))
 cdc.state.data$Notes  <- cdc.state.data$Notes <- NULL
 cdc.state.data$Deaths <- as.integer(cdc.state.data$Deaths)
 cdc.state.data <- cdc.state.data %>% separate(Month.Code,c("yr","Month.Code"))
+cdc.state.data$yr <- as.character(cdc.state.data$Year)
+cdc.state.data$YearMonth <- paste(cdc.state.data$yr , cdc.state.data$Month.Code,sep="-")
+#cdc.state.data <- cdc.state.data %>% mutate(YearMonth= paste(toString(Year) , "-" ,Month.Code))
 
-cdc.state.data <- subset(cdc.state.data,select=c("State","Year","Month.Code","Deaths"))
+cdc.state.data <- subset(cdc.state.data,select=c("State","YearMonth","Year","Month.Code","Deaths"))
 
 
 ```
@@ -71,6 +74,7 @@ cdc.state.data <- subset(cdc.state.data,select=c("State","Year","Month.Code","De
 
 ```{r explore, echo=FALSE}
 str(cdc.state.data)
+head(cdc.state.data)
 summary(cdc.state.data)
 print(cdc.state.data %>% filter(Year==2016) %>% select(Deaths) %>%sum())
 print("Deaths reported in 2016 ")
@@ -81,28 +85,75 @@ print( cdc.state.data %>% filter(Year==2016,State=="Texas") %>% select(Deaths) %
 
 
 ```{r explore2016, echo=FALSE}
-grp_state <- cdc.state.data %>% filter(Year==2016)%>% group_by(State,Month.Code)%>% select(Deaths)
+grp_state <- cdc.state.data %>% filter(Year==2016)%>% group_by(State,YearMonth)%>% select(Deaths)
 summary(grp_state)
 
 ```
 
 
 
-```{r plot, echo=FALSE}
+```{r plottexas, echo=FALSE}
+grp_state <- cdc.state.data %>% group_by(State,YearMonth)%>% select(Deaths)
+
 tx <- filter(grp_state,State=="Texas")
-ggplot(tx,aes(x=Month.Code, y=Deaths))+
-  geom_point()
+head(tx)
+summarise(tx)
 
-grp_state2 <-grp_state %>%group_by(State)%>% summarise(Deaths= sum(Deaths))
+ggplot(tx,aes(x=YearMonth, y=Deaths))+
+  geom_point()  +
+  ggtitle("Deaths attributed to opiods for the state of Texas","1999-2016")
 
+ggplot(tx,aes(x=YearMonth, y=Deaths,group=1))+
+  geom_line(stat="identity") +
+  stat_smooth() +
+  ggtitle("Deaths attributed to opiods for the state of Texas","1999-2016")
 
+#ggplot(tx,aes(x=Month.Code, y=Deaths))+
+#  geom_point()
+#
+#grp_state2 <-grp_state %>%group_by(State)
+
+#grp_state2 <-grp_state %>%group_by(State)%>% summarise(Deaths= sum(Deaths))
+
+#ggplot(tx,aes(x=Month.Code, y=Deaths))+
+#  geom_line()
 
 
 
 ```
 
 
-```{r plot2, echo=FALSE}
+```{r plottus, echo=FALSE}
+grp_us <- cdc.state.data %>% group_by(Year)%>% select(Deaths) %>%summarise(Deaths= sum(Deaths))
+
+#tx <- filter(grp_state,State=="Texas")
+head(grp_us)
+#summarise(tx)
+
+ggplot(grp_us,aes(x=Year, y=Deaths))+
+  geom_point()  +
+  ggtitle("Deaths attributed to opiods in the United States","1999-2016")
+
+ggplot(grp_us,aes(x=Year, y=Deaths,group=1))+
+  geom_line() +
+  stat_smooth() +
+  ggtitle("Deaths attributed to opiods in the United States","1999-2016")
+
+#ggplot(tx,aes(x=Month.Code, y=Deaths))+
+#  geom_point()
+#
+#grp_state2 <-grp_state %>%group_by(State)
+
+#grp_state2 <-grp_state %>%group_by(State)%>% summarise(Deaths= sum(Deaths))
+
+#ggplot(tx,aes(x=Month.Code, y=Deaths))+
+#  geom_line()
+
+
+
+```
+
+```{r plotmap, echo=FALSE}
 
 grp_state2 <-grp_state %>%group_by(State)%>% summarise(Deaths= sum(Deaths))
 grp_state2$State <- tolower(grp_state2$State)
