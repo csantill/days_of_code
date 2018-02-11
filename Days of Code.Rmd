@@ -67,6 +67,9 @@ cdc.state.data$YearMonth <- paste(cdc.state.data$yr , cdc.state.data$Month.Code,
 
 cdc.state.data <- subset(cdc.state.data,select=c("State","YearMonth","Year","Month.Code","Deaths"))
 
+#save the RDS
+saveRDS(cdc.state.data,"cdc.state.data.rds")
+
 
 ```
 
@@ -160,7 +163,10 @@ grp_state2$State <- tolower(grp_state2$State)
 
 p <- ggplot(grp_state2, aes(map_id = State)) + 
   # map points to the fifty_states shape data
-  geom_map(aes(fill = Deaths), map = fifty_states) + 
+  scale_fill_gradient(low="white", high="red")+
+# Diverging color scheme
+  geom_map(aes(fill = Deaths), map = fifty_states) +
+  
   expand_limits(x = fifty_states$long, y = fifty_states$lat) +
   coord_map() +
   scale_x_continuous(breaks = NULL) + 
