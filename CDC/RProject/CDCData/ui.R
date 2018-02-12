@@ -29,18 +29,18 @@ navbarPage("CDC Opiod Deaths", id="nav",
                         # Shiny versions prior to 0.11 should use class = "modal" instead.
                         absolutePanel(id = "controls", class = "panel panel-default", fixed = TRUE,
                                       draggable = TRUE, top = 60, left = "auto", right = 20, bottom = "auto",
-                                      width = 330, height = "auto",
+                                      width = 400, height = "auto",
                                       
                                       h2("CDC"),
                                       
-                                      selectInput("Year","year", Years,selected="2016"),
+                                      selectInput("year","Year", Years,selected="2016"),
                                     #  selectInput("size", "Size", vars, selected = "adultpop"),
                                     #  conditionalPanel("input.color == 'superzip' || input.size == 'superzip'",
                                     #                   # Only prompt for threshold when coloring or sizing by superzip
                                     #                   numericInput("threshold", "SuperZIP threshold (top n percentile)", 5)
                                     #  ),
                                       
-                                      plotOutput("histCentile", height = 200),
+                                      plotOutput("scatterDeaths", height = 300)
                                    #   plotOutput("scatterCollegeIncome", height = 250)
                         ),
                         
@@ -59,12 +59,15 @@ navbarPage("CDC Opiod Deaths", id="nav",
                       )
                     ),
                     fluidRow(
-                      column(1,
-                             selectInput("years", "Years", c(Years), multiple=TRUE)
+                      column(3,
+                             selectInput("exploreryears", "Years", c("All Years"="",Years), multiple=TRUE)
                       )
                     ),
                     hr(),
-                    DT::dataTableOutput("cdctable")
+                    DT::dataTableOutput("cdctable"),
+                    hr(),
+                    
+                    plotOutput("scatterExplorerDeaths", height = 300)
            ),
            
            conditionalPanel("false", icon("crosshair"))
