@@ -66,7 +66,7 @@ cdc.state.data$YearMonth <- paste(cdc.state.data$yr , cdc.state.data$Month.Code,
 #cdc.state.data <- cdc.state.data %>% mutate(YearMonth= paste(toString(Year) , "-" ,Month.Code))
 state.geom <- read.csv("CDC/data/state_geom.csv")
 #saveRDS(state.geom,"state_geom.rds")
-cdc.state.data <- left_join(cdc.state.data,states_geom,by=c('State'='name'))
+cdc.state.data <- left_join(cdc.state.data,state.geom,by=c('State'='name'))
 cdc.state.data <- subset(cdc.state.data,select=c("State","YearMonth","Year","Month.Code","Deaths","latitude","longitude"))
 
 #save the RDS
@@ -75,12 +75,6 @@ saveRDS(cdc.state.data,"cdc.state.data.rds")
 
 ```
 
-```{r loadstategeom, echo=FALSE}
-
-state.geom <- read.csv("CDC/data/state_geom.csv")
-saveRDS(state.geom,"state_geom.rds")
-
-```
 
 
 ### Exploration 

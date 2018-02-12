@@ -187,24 +187,28 @@ data(&quot;fifty_states&quot;) # this line is optional due to lazy data loading<
 ## row # A tibble: 5 x 5 col     row col   expected   actual     file                     expected   &lt;int&gt; &lt;chr&gt; &lt;chr&gt;      &lt;chr&gt;      &lt;chr&gt;                    actual 1  8984 &lt;NA&gt;  12 columns 13 columns 'CDC/data/statefull.txt' file 2  8985 &lt;NA&gt;  12 columns 13 columns 'CDC/data/statefull.txt' row 3  8986 &lt;NA&gt;  12 columns 13 columns 'CDC/data/statefull.txt' col 4  8987 &lt;NA&gt;  12 columns 13 columns 'CDC/data/statefull.txt' expected 5  8988 &lt;NA&gt;  12 columns 13 columns 'CDC/data/statefull.txt'
 ## ... ................. ... ............................................................ ........ ............................................................ ...... ............................................................ .... ............................................................ ... ............................................................ ... ............................................................ ........ ............................................................
 ## See problems(...) for more details.</code></pre>
+<pre><code>## Warning: Column `State`/`name` joining character vector and factor,
+## coercing into character vector</code></pre>
 </div>
 <div id="exploration" class="section level3">
 <h3>Exploration</h3>
-<pre><code>## Classes 'tbl_df', 'tbl' and 'data.frame':    9199 obs. of  5 variables:
+<pre><code>## Classes 'tbl_df', 'tbl' and 'data.frame':    9199 obs. of  7 variables:
 ##  $ State     : chr  &quot;Alabama&quot; &quot;Alabama&quot; &quot;Alabama&quot; &quot;Alabama&quot; ...
 ##  $ YearMonth : chr  &quot;1999-01&quot; &quot;1999-02&quot; &quot;1999-03&quot; &quot;1999-04&quot; ...
 ##  $ Year      : int  1999 1999 1999 1999 1999 1999 1999 1999 1999 1999 ...
 ##  $ Month.Code: chr  &quot;01&quot; &quot;02&quot; &quot;03&quot; &quot;04&quot; ...
-##  $ Deaths    : int  17 13 10 14 13 20 11 20 21 17 ...</code></pre>
-<pre><code>## # A tibble: 6 x 5
-##   State   YearMonth  Year Month.Code Deaths
-##   &lt;chr&gt;   &lt;chr&gt;     &lt;int&gt; &lt;chr&gt;       &lt;int&gt;
-## 1 Alabama 1999-01    1999 01             17
-## 2 Alabama 1999-02    1999 02             13
-## 3 Alabama 1999-03    1999 03             10
-## 4 Alabama 1999-04    1999 04             14
-## 5 Alabama 1999-05    1999 05             13
-## 6 Alabama 1999-06    1999 06             20</code></pre>
+##  $ Deaths    : int  17 13 10 14 13 20 11 20 21 17 ...
+##  $ latitude  : num  32.8 32.8 32.8 32.8 32.8 ...
+##  $ longitude : num  -86.8 -86.8 -86.8 -86.8 -86.8 ...</code></pre>
+<pre><code>## # A tibble: 6 x 7
+##   State   YearMonth  Year Month.Code Deaths latitude longitude
+##   &lt;chr&gt;   &lt;chr&gt;     &lt;int&gt; &lt;chr&gt;       &lt;int&gt;    &lt;dbl&gt;     &lt;dbl&gt;
+## 1 Alabama 1999-01    1999 01             17     32.8     -86.8
+## 2 Alabama 1999-02    1999 02             13     32.8     -86.8
+## 3 Alabama 1999-03    1999 03             10     32.8     -86.8
+## 4 Alabama 1999-04    1999 04             14     32.8     -86.8
+## 5 Alabama 1999-05    1999 05             13     32.8     -86.8
+## 6 Alabama 1999-06    1999 06             20     32.8     -86.8</code></pre>
 <pre><code>##     State            YearMonth              Year       Month.Code       
 ##  Length:9199        Length:9199        Min.   :1999   Length:9199       
 ##  Class :character   Class :character   1st Qu.:2004   Class :character  
@@ -212,13 +216,13 @@ data(&quot;fifty_states&quot;) # this line is optional due to lazy data loading<
 ##                                        Mean   :2008                     
 ##                                        3rd Qu.:2012                     
 ##                                        Max.   :2016                     
-##      Deaths      
-##  Min.   :  1.00  
-##  1st Qu.: 24.00  
-##  Median : 49.00  
-##  Mean   : 67.57  
-##  3rd Qu.: 83.00  
-##  Max.   :546.00</code></pre>
+##      Deaths          latitude       longitude      
+##  Min.   :  1.00   Min.   :21.09   Min.   :-157.50  
+##  1st Qu.: 24.00   1st Qu.:35.57   1st Qu.: -99.44  
+##  Median : 49.00   Median :39.06   Median : -88.99  
+##  Mean   : 67.57   Mean   :38.70   Mean   : -92.19  
+##  3rd Qu.: 83.00   3rd Qu.:42.17   3rd Qu.: -79.81  
+##  Max.   :546.00   Max.   :61.37   Max.   : -69.38</code></pre>
 <pre><code>## [1] 63246</code></pre>
 <pre><code>## [1] &quot;Deaths reported in 2016 &quot;</code></pre>
 <pre><code>## [1] 2822</code></pre>
