@@ -34,14 +34,7 @@ navbarPage("CDC Opiod Deaths", id="nav",
                                       h2("CDC"),
                                       
                                       selectInput("year","Year", Years,selected="2016"),
-                                    #  selectInput("size", "Size", vars, selected = "adultpop"),
-                                    #  conditionalPanel("input.color == 'superzip' || input.size == 'superzip'",
-                                    #                   # Only prompt for threshold when coloring or sizing by superzip
-                                    #                   numericInput("threshold", "SuperZIP threshold (top n percentile)", 5)
-                                    #  ),
-                                      
                                       plotOutput("scatterDeaths", height = 300)
-                                   #   plotOutput("scatterCollegeIncome", height = 250)
                         ),
                         
                         tags$div(id="cite",
@@ -52,22 +45,34 @@ navbarPage("CDC Opiod Deaths", id="nav",
                     )
            ),
            
-           tabPanel("Data explorer",
+           tabPanel("State explorer",
                     fluidRow(
                       column(3,
-                             selectInput("states", "States", c("All states"="", States), multiple=TRUE)
+                             selectInput("usstates", "States", States,  multiple=FALSE)
                       )
                     ),
-                    fluidRow(
+                  fluidRow(
                       column(3,
-                             selectInput("exploreryears", "Years", c("All Years"="",Years), multiple=TRUE)
+                             selectInput("explorerstateyears", "Years", c("All Years"="",Years), selected="All Years",multiple=TRUE )
                       )
                     ),
                     hr(),
-                    DT::dataTableOutput("cdctable"),
+                    DT::dataTableOutput("cdcStatetable"),
                     hr(),
                     
-                    plotOutput("scatterExplorerDeaths", height = 300)
+                    plotOutput("scatterExplorerStateDeaths", height = 300)
+           ),          
+                    tabPanel("Data explorer",
+                                 fluidRow(
+                                   column(3,
+                                          selectInput("states", "States", c("All states"="", States), selected="All states", multiple=TRUE)
+                                   )
+                                 ),
+                                    hr(),
+                                 DT::dataTableOutput("cdctable"),
+                                 hr(),
+                                 
+                                 plotOutput("scatterExplorerDeaths", height = 300)
            ),
            
            conditionalPanel("false", icon("crosshair"))
