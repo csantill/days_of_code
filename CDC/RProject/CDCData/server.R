@@ -42,7 +42,11 @@ function(input, output, session) {
     cdc.filtered.data <- cdcMonthlyStateData%>% filter(Year==YearBy) 
   })
   
+  yearFilterAnnual <- reactive({
+    YearBy <- input$year
 
+    cdc.filtered.data <- cdcAnnualData%>% filter(Year==YearBy) 
+  })
   
   output$scatterDeaths <- renderPlot({
     # If no zipcodes are in view, don't plot
@@ -74,11 +78,22 @@ function(input, output, session) {
 
   })
   
+  PrettyNumbers <- function(val)
+  {
+    format(val,  big.mark=",",small.mark=".",  small.interval=3)
+  }  
   # Show a popup at the given location
   showStatePopup <- function(state, lat, lng) {
-    selectedState <- yearFilter()[yearFilter()$State == state,]
+    selectedState <- yearFilterAnnual()[yearFilterAnnual()$State == state,]
+    str(yearFilterAnnual())
     content <- as.character(tagList(
-      tags$h4("Deaths:", as.integer(sum(selectedState$Deaths)))
+      tags$h2(state),
+      tags$h3("Year:", as.integer(selectedState$Year)),
+      tags$h4("Deaths:", PrettyNumbers(as.integer(selectedState$Deaths))) ,
+      tags$h4("Population:", PrettyNumbers(selectedState$Population)) ,
+      tags$h4("Crude Rate:", selectedState$Crude.Rate) 
+                                    
+                                  
       )
     )
     leafletProxy("map") %>% addPopups(lng, lat, content, layerId = state)
@@ -105,8 +120,8 @@ function(input, output, session) {
     print(input$explorerstateyears)
     cdcAnnualData %>%
       filter(
-        input$usstates == "" | State == input$states  ,
-        !is.null(input$explorerstateyears) | Year %in% input$explorerstateyears
+        input$usstates == "" | State == input$usstates  ,
+        is.null(input$explorerstateyears) | Year %in% input$explorerstateyears
       )
     
   })  
