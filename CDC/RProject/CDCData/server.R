@@ -54,6 +54,7 @@ function(input, output, session) {
       return(NULL)
 
     plotdata <- yearFilter()%>% group_by(Month.Code)%>% select(Month.Code,Deaths) %>%summarise(Deaths= sum(Deaths))
+    str(plotdata)
     ggplot(plotdata,aes(x=Month.Code, y=Deaths,group=1))+
       geom_line(stat="identity") +
       stat_smooth(method="loess") +
@@ -120,7 +121,8 @@ function(input, output, session) {
     print(input$explorerstateyears)
     cdcAnnualData %>%
       filter(
-        input$usstates == "" | State == input$usstates  ,
+#        input$usstates == "" | State == input$usstates  ,
+        is.null(input$usstates)| State %in% input$usstates  ,    
         is.null(input$explorerstateyears) | Year %in% input$explorerstateyears
       )
     
@@ -129,11 +131,11 @@ function(input, output, session) {
   output$scatterExplorerStateDeaths <- renderPlot({
     if (nrow(explorestatedatafilter()) == 0)
       return(NULL)
-    
-    plotdata <- explorestatedatafilter()%>% group_by(Year)%>% select(Year,Deaths) %>%summarise(Deaths= sum(Deaths))
-    ggplot(plotdata,aes(x=Year, y=Deaths,group=1))+
-      geom_line(stat="identity") +
-      stat_smooth(method="loess",show.legend=TRUE) +
+    plotdata <- explorestatedatafilter() #%>% group_by(Year)%>% select(State,Year,Deaths) 
+    str(plotdata)
+    ggplot(plotdata,aes(x=Year, y=Deaths,color=State))+
+      geom_bar(stat="identity") +
+    #  stat_smooth(method="loess",show.legend=TRUE) +
       ggtitle("Deaths attributed to opiods")
   })
   

@@ -48,7 +48,7 @@ navbarPage("CDC Opiod Deaths", id="nav",
            tabPanel("State explorer",
                     fluidRow(
                       column(3,
-                             selectInput("usstates", "States", States,  multiple=FALSE)
+                             selectInput("usstates", "States", States,  multiple=TRUE)
                       )
                     ),
                   fluidRow(
@@ -57,10 +57,10 @@ navbarPage("CDC Opiod Deaths", id="nav",
                       )
                     ),
                     hr(),
-                    DT::dataTableOutput("cdcStatetable"),
+                    plotOutput("scatterExplorerStateDeaths", height = 300),
                     hr(),
-                    
-                    plotOutput("scatterExplorerStateDeaths", height = 300)
+                    DT::dataTableOutput("cdcStatetable")                 
+        
            ),          
                     tabPanel("Data explorer",
                                  fluidRow(
