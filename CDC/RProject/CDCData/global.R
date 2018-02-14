@@ -9,8 +9,8 @@ cdcMonthlyStateData <- readRDS("Data/cdcMonthlyStateData.rds")
 cdcAnnualData <- readRDS("Data/cdcAnnualData.rds")
 
 state.geom <- readRDS("Data/state_geom.rds")
-States<- cdcMonthlyStateData %>% distinct(State)
-Years<-  cdcMonthlyStateData %>% distinct(Year) %>% mutate_all(as.character)
+States<- cdcAnnualData %>% distinct(State)
+Years<-  cdcAnnualData %>% distinct(Year) %>% mutate_all(as.character)
 Months<- cdcMonthlyStateData %>% distinct(Month.Code)
 
 cdcMonthlyStateData <-cdcMonthlyStateData %>%  left_join(state.geom,by=c('State'='name')) %>% select(

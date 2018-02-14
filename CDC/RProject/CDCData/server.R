@@ -42,23 +42,62 @@ function(input, output, session) {
     cdc.filtered.data <- cdcMonthlyStateData%>% filter(Year==YearBy) 
   })
   
+  gottoUpdatedMap <- reactive({
+    print("In herer")
+    StateBy <- input$monthlyState 
+    Year <- input$year
+    if (nrow(MonthlyDataStateFilter()) == 0)
+      return(NULL)
+    print("In herer")
+    row <- MonthlyDataStateFilter[1,]
+    state <- row$State
+    lat <- row$Lat
+    long <- row$Long
+    
+    gotoState(state,lat,long)
+    
+  })
+  
+  MonthlyDataStateFilter <- reactive({
+    StateBy <- input$monthlyState
+    leafletProxy("map") %>% clearPopups()
+
+    newfilter <- cdcMonthlyStateData %>%
+      filter(
+        input$monthlyState =="" | State == input$monthlyState  ,    
+        input$year =="" | Year == input$year
+       )
+    
+    if (nrow(newfilter) != 0)
+    {
+      row <- newfilter[1,]
+      state <- row$State
+      lat <- row$Lat
+      long <- row$Long
+      gotoState(state,lat,long)
+    }
+
+    
+    newfilter
+  })
+  
   yearFilterAnnual <- reactive({
     YearBy <- input$year
-
     cdc.filtered.data <- cdcAnnualData%>% filter(Year==YearBy) 
   })
   
   output$scatterDeaths <- renderPlot({
-    # If no zipcodes are in view, don't plot
-    if (nrow(yearFilter()) == 0)
-      return(NULL)
+    
+    validate(need(nrow(MonthlyDataStateFilter()) != 0, 'No data Available for this Year/State'))
+    #if (nrow(MonthlyDataStateFilter()) == 0)
+    #  return()
 
-    plotdata <- yearFilter()%>% group_by(Month.Code)%>% select(Month.Code,Deaths) %>%summarise(Deaths= sum(Deaths))
-    str(plotdata)
+    plotdata <- MonthlyDataStateFilter()%>% group_by(Month.Code)%>% select(Month.Code,Deaths) %>%summarise(Deaths= sum(Deaths))
+
     ggplot(plotdata,aes(x=Month.Code, y=Deaths,group=1))+
       geom_line(stat="identity") +
       stat_smooth(method="loess") +
-      ggtitle("Deaths attributed to opiods",input$year)
+      ggtitle(paste("Deaths attributed to opiods in the state of" , input$monthlyState,sep =" "),input$year)
     })
   
 
@@ -86,15 +125,12 @@ function(input, output, session) {
   # Show a popup at the given location
   showStatePopup <- function(state, lat, lng) {
     selectedState <- yearFilterAnnual()[yearFilterAnnual()$State == state,]
-    str(yearFilterAnnual())
     content <- as.character(tagList(
       tags$h2(state),
       tags$h3("Year:", as.integer(selectedState$Year)),
       tags$h4("Deaths:", PrettyNumbers(as.integer(selectedState$Deaths))) ,
       tags$h4("Population:", PrettyNumbers(selectedState$Population)) ,
       tags$h4("Crude Rate:", selectedState$Crude.Rate) 
-                                    
-                                  
       )
     )
     leafletProxy("map") %>% addPopups(lng, lat, content, layerId = state)
@@ -113,36 +149,37 @@ function(input, output, session) {
   })
   
   
-  ## State Date Explorer  #################
+  ## State Data Explorer  #################
   explorestatedatafilter <- reactive({
     
-    print("here")
-    print(input$usstates)
-    print(input$explorerstateyears)
     cdcAnnualData %>%
       filter(
 #        input$usstates == "" | State == input$usstates  ,
-        is.null(input$usstates)| State %in% input$usstates  ,    
-        is.null(input$explorerstateyears) | Year %in% input$explorerstateyears
+        is.null(input$usstates)| State %in% input$usstates  
+        #,    
+#        input$explorerstateyears =="" | Year == input$explorerstateyears
+#      is.null(input$explorerstateyears) | Year %in% input$explorerstateyears
       )
     
   })  
   
   output$scatterExplorerStateDeaths <- renderPlot({
-    if (nrow(explorestatedatafilter()) == 0)
-      return(NULL)
+    validate(need(nrow(explorestatedatafilter()) != 0, 'No data Available for this Year/State'))
+    #if (NROW(explorestatedatafilter()) == 0)
+    #  return(NULL)
     plotdata <- explorestatedatafilter() #%>% group_by(Year)%>% select(State,Year,Deaths) 
-    str(plotdata)
-    ggplot(plotdata,aes(x=Year, y=Deaths,color=State))+
-      geom_bar(stat="identity") +
+    ggplot(plotdata)+
+  #    geom_bar(stat="identity") +
+      geom_line(mapping=aes(x=Year, y=(Deaths),group=State,color=State)) +
+      geom_smooth(mapping=aes(x=Year, y=(Deaths),group=State,color=State)) +
     #  stat_smooth(method="loess",show.legend=TRUE) +
       ggtitle("Deaths attributed to opiods")
   })
   
   output$cdcStatetable <- DT::renderDataTable({
-    if (nrow(explorestatedatafilter()) == 0)
+    if (NROW(explorestatedatafilter()) == 0)
       return(NULL)
-    str(explorestatedatafilter())
+
     df <-   explorestatedatafilter() %>%
       mutate(Action = paste('<a class="go-map" href="" data-lat="', Lat, '" data-long="', Long, '" data-state="', State,'" data-year="', Year, '"><i class="fa fa-crosshairs"></i></a>', sep=""))
     action <- DT::dataTableAjax(session, df)
@@ -155,32 +192,46 @@ function(input, output, session) {
     if (is.null(input$goto))
       return()
     updateSelectInput(session,"year",selected= input$goto$year)
+    if (input$goto$state != "US Aggregated")
+    {
+      updateSelectInput(session,"monthlyState",selected= input$goto$state)
+      state <- input$goto$state
+      lat <- input$goto$lat
+      lng <- input$goto$lng  
+      gotoState(state,lat,lng)
+    }
+
+
+  })
+  
+  gotoState<- function (state,lat,lng) {
     isolate({
       map <- leafletProxy("map")
       map %>% clearPopups()
-      dist <- 0.5
-      state <- input$goto$state
-      lat <- input$goto$lat
-      lng <- input$goto$lng
-      showStatePopup(state, lat, lng)
-      map %>% fitBounds(lng - dist, lat - dist, lng + dist, lat + dist)
+      dist <- 0.8
+      if (state != "US Aggregated")
+      {
+        showStatePopup(state, lat, lng)
+        map %>% fitBounds(lng - dist, lat - dist, lng + dist, lat + dist)
+      }
     })
-  })
+  
+  }
   
   exploredatafilter <- reactive({
 
     cdcAnnualData %>%
       filter(
-        is.null(input$states) | State %in% input$states
+        input$states=="" | State == input$states
       )
     
   })  
   output$scatterExplorerDeaths <- renderPlot({
-    if (nrow(exploredatafilter()) == 0)
+    if (NROW(exploredatafilter()) == 0)
       return(NULL)
 
     plotdata <- exploredatafilter()%>% group_by(Year)%>% select(Year,Deaths) %>%summarise(Deaths= sum(Deaths))
-    ggplot(plotdata,aes(x=Year, y=Deaths,group=1))+
+    ggplot(plotdata,aes(x=Year, y=Deaths,group=1)) +
       geom_line(stat="identity") +
       stat_smooth(method="loess",show.legend=TRUE) +
       ggtitle("Deaths attributed to opiods")
@@ -190,8 +241,9 @@ function(input, output, session) {
   
   output$cdctable <- DT::renderDataTable({
     str(exploredatafilter())
-    df <-   exploredatafilter() %>%
-    mutate(Action = paste('<a class="go-map" href="" data-lat="', Lat, '" data-long="', Long, '" data-state="', State,'" data-year="', Year, '"><i class="fa fa-crosshairs"></i></a>', sep=""))
+    df <-   exploredatafilter() %>% arrange(desc(Year)) %>%
+      mutate (PercentChange =  format((Deaths-lead(Deaths)) * 100 / lead(Deaths), big_mark="," , digits=2 )) %>%
+      mutate(Action = paste('<a class="go-map" href="" data-lat="', Lat, '" data-long="', Long, '" data-state="', State,'" data-year="', Year, '"><i class="fa fa-crosshairs"></i></a>', sep=""))
     action <- DT::dataTableAjax(session, df)
     
     DT::datatable(df, options = list(lengthMenu  = c(18, 36, 72, 144),ajax = list(url = action)), escape = FALSE) %>% formatRound(c("Deaths","Population"),interval = 3, mark = ",",digits=0)

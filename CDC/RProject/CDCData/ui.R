@@ -34,6 +34,7 @@ navbarPage("CDC Opiod Deaths", id="nav",
                                       h2("CDC"),
                                       
                                       selectInput("year","Year", Years,selected="2016"),
+                                      selectInput("monthlyState","State",States,selected="Texas"),
                                       plotOutput("scatterDeaths", height = 300)
                         ),
                         
@@ -48,14 +49,14 @@ navbarPage("CDC Opiod Deaths", id="nav",
            tabPanel("State explorer",
                     fluidRow(
                       column(3,
-                             selectInput("usstates", "States", States,  multiple=TRUE)
+                             selectInput("usstates", "States", States,selected="US Aggregated",  multiple=TRUE)
                       )
                     ),
-                  fluidRow(
-                      column(3,
-                             selectInput("explorerstateyears", "Years", c("All Years"="",Years), selected="All Years",multiple=TRUE )
-                      )
-                    ),
+                  # fluidRow(
+                  #     column(3,
+                  #            selectInput("explorerstateyears", "Years", c("All Years"="",Years), selected="All Years",multiple=FALSE )
+                  #     )
+                  #   ),
                     hr(),
                     plotOutput("scatterExplorerStateDeaths", height = 300),
                     hr(),
@@ -65,14 +66,13 @@ navbarPage("CDC Opiod Deaths", id="nav",
                     tabPanel("Data explorer",
                                  fluidRow(
                                    column(3,
-                                          selectInput("states", "States", c("All states"="", States), selected="All states", multiple=TRUE)
+                                          selectInput("states", "States", States, selected="US Aggregated", multiple=FALSE)
                                    )
                                  ),
-                                    hr(),
-                                 DT::dataTableOutput("cdctable"),
-                                 hr(),
+                                  hr(),  plotOutput("scatterExplorerDeaths", height = 300),
+                                  hr(), DT::dataTableOutput("cdctable")
                                  
-                                 plotOutput("scatterExplorerDeaths", height = 300)
+
            ),
            
            conditionalPanel("false", icon("crosshair"))
