@@ -1,0 +1,75 @@
+---
+title: "Fatal Injury"
+author: "Carlos Santillan"
+date: "February 15, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+https://webappa.cdc.gov/sasweb/ncipc/mortrate.html
+1999 to 2016 (ICD-10), National, Regional and State (Restricted) 
+Homicide
+1990-2016
+
+
+Group by 
+State Year
+
+
+
+* Rates based on 20 or fewer deaths may be unstable. Use with caution.
+
+** Standard Population is 2000, all races, both sexes.
+
+*** Population estimates are aggregated for multi-year reports to produce rates.
+
+
+```{r cars}
+setwd("F:/Development/days_of_code")
+cdHomicideStateData        <- read_csv("CDC/data/homicidedata.csv")
+colnames(cdHomicideStateData) <- make.names(colnames(cdHomicideStateData)) # Set standard names
+cdHomicideStateData$Deaths <- as.integer(cdHomicideStateData$Deaths)
+cdHomicideStateData <- cdHomicideStateData %>% na.omit() 
+
+
+cdHomicideStateData <- cdHomicideStateData %>% select(State,Year,HomicideDeaths=Deaths,Population, HomicideCrudeRAte=Crude.Rate)
+cdHomicideStateData$Year<- as.character(cdHomicideStateData$Year)
+
+
+agg<- cdHomicideStateData %>% group_by(Year)  %>% summarise(HomicideDeaths=sum(HomicideDeaths), Population = sum(Population),HomicideCrudeRAte = as.numeric(format((sum(HomicideDeaths) / sum(Population)) * 100000,  big_mark = "," ,digits = 2)))
+ agg ["State"] <- "US Aggregated"
+cdHomicideStateData <- cdHomicideStateData %>% rbind(agg)
+
+
+
+cdcAnnualDataJoin <- left_join(cdHomicideStateData,cdcAnnualData,by=c('State'='State','Year'='Year'))
+cdcAnnualDataJoin$HomicideCrudeRAte <- as.numeric(cdcAnnualDataJoin$HomicideCrudeRAte)
+cdcAnnualDataJoin$Crude.Rate <- as.numeric(cdcAnnualDataJoin$Crude.Rate)
+
+tx <- cdcAnnualDataJoin %>% filter (State=="US Aggregated")
+#tx <- cdcAnnualDataJoin %>% filter (State=="Texas")
+correl <- cor.test(tx$Crude.Rate,tx$HomicideCrudeRAte, method = "pearson")
+
+correl
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+ggplot(tx,aes(x=Crude.Rate,y=HomicideCrudeRAte))+
+         geom_point()
+
+
+ggplot(tx,aes(x=Year))+
+         geom_point(aes(y=HomicideCrudeRAte,color="Red")) +
+         geom_point(aes(y=Crude.Rate))
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

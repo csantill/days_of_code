@@ -123,19 +123,17 @@ https://wonder.cdc.gov/controller/saved/D76/D30F044
 
 ```{r loadAnnualdata, echo=FALSE}
 
-cdcAnnualData        <- read_tsv("CDC/data/statefull_annual.txt")
+cdcAnnualData        <- read_tsv("CDC/data/statefull_annual2.txt")
 colnames(cdcAnnualData) <- make.names(colnames(cdcAnnualData)) # Set standard names (remove spaces, etc)
 cdcAnnualData$Notes  <- cdcAnnualData$Notes <- NULL
 cdcAnnualData$Year<- as.character(cdcAnnualData$Year)
 
-cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate)
+cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate)
 
 # Calculate the US totals
-us_agg_data <- cdcAnnualData %>% group_by(Year)  %>% summarise(Deaths=sum(Deaths), Population = sum(Population),Crude.Rate = format((sum(Deaths) / sum(Population)) * 100000,  big_mark = "," ,digits = 2))
-us_agg_data ["State"] <- "US Aggregated"
-
-
-cdcAnnualData <- cdcAnnualData %>% rbind(us_agg_data)
+#us_agg_data <- cdcAnnualData %>% group_by(Year)  %>% summarise(Deaths=sum(Deaths), Population = #sum(Population),Crude.Rate = format((sum(Deaths) / sum(Population)) * 100000,  big_mark = "," ,digits = 2))
+#us_agg_data ["State"] <- "US Aggregated"
+#cdcAnnualData <- cdcAnnualData %>% rbind(us_agg_data)
 
 ```
 ## Load Geo data
@@ -149,7 +147,6 @@ state.geom$name = as.character(state.geom$name)
 saveRDS(state.geom,"state_geom.rds")
 
 # Join geocoordinates with CDC data
-
 
 cdcAnnualData <- left_join(cdcAnnualData,state.geom,by=c('State'='name'))
 cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate,Lat=latitude,Long=longitude)
