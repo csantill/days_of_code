@@ -79,6 +79,18 @@ navbarPage(
     DT::dataTableOutput("cdcStatetable")
     
   ),
+  tabPanel("Data explorer",
+           fluidRow(
+             column(3,
+                    selectInput("states", "States", c("All states"="", States), selected="US Aggregated", multiple=FALSE)
+             )
+           ),
+           hr(),
+           DT::dataTableOutput("cdctable"),
+           hr(),
+           
+           plotOutput("scatterExplorerDeaths", height = 300)
+  ),
   tabPanel(
     "Data Sources",
     fluidRow(    

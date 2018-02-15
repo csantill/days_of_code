@@ -131,7 +131,7 @@ cdcAnnualData$Year<- as.character(cdcAnnualData$Year)
 cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate)
 
 # Calculate the US totals
-us_agg_data <- cdcAnnualData %>% group_by(Year)  %>% summarise(Deaths=sum(Deaths), Population = sum(Population),Crude.Rate = (sum(Deaths) / sum(Population)) * 100000)
+us_agg_data <- cdcAnnualData %>% group_by(Year)  %>% summarise(Deaths=sum(Deaths), Population = sum(Population),Crude.Rate = format((sum(Deaths) / sum(Population)) * 100000,  big_mark = "," ,digits = 2))
 us_agg_data ["State"] <- "US Aggregated"
 
 

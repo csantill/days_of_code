@@ -19,36 +19,19 @@ function(input, output, session) {
               zoom = 4)
   })
   
-  # A reactive expression that returns the set of zips that are
-  # in bounds right now
-  # statesInBounds <- reactive({
-  #   if (is.null(input$map_bounds))
-  #     return(()[FALSE,])
-  #   bounds <- input$map_bounds
-  #   latRng <- ryearFilterange(bounds$north, bounds$south)
-  #   lngRng <- range(bounds$east, bounds$west)
-  #
-  #   subset(yearFilter(),
-  #          Lat >= latRng[1] & Lat <= latRng[2] &
-  #            Long >= lngRng[1] & Long <= lngRng[2])
-  # })
   
   yearFilter <- reactive({
     YearBy <- input$year
-    #cdc.filtered.data <- cdcMonthlyStateData%>% filter(Year==YearBy)
-    # cdcAnnualData <- cdcAnnualData %>% filter(Year==YearBy)
     cdc.filtered.data <-
       cdcMonthlyStateData %>% filter(Year == YearBy)
   })
   
   gottoUpdatedMap <- reactive({
-    print("In herer")
     StateBy <- input$monthlyState
     Year <- input$year
     if (nrow(MonthlyDataStateFilter()) == 0)
       return(NULL)
-    print("In herer")
-    row <- MonthlyDataStateFilter[1, ]
+    row <- MonthlyDataStateFilter[1,]
     state <- row$State
     lat <- row$Lat
     long <- row$Long
@@ -69,7 +52,7 @@ function(input, output, session) {
     
     if (nrow(newfilter) != 0)
     {
-      row <- newfilter[1, ]
+      row <- newfilter[1,]
       state <- row$State
       lat <- row$Lat
       long <- row$Long
@@ -90,9 +73,6 @@ function(input, output, session) {
       nrow(MonthlyDataStateFilter()) != 0,
       'No data Available for this Year/State'
     ))
-    #if (nrow(MonthlyDataStateFilter()) == 0)
-    #  return()
-    
     plotdata <-
       MonthlyDataStateFilter() %>% group_by(Month.Code) %>% select(Month.Code, Deaths) %>%
       summarise(Deaths = sum(Deaths))
@@ -147,7 +127,7 @@ function(input, output, session) {
   # Show a popup at the given location
   showStatePopup <- function(state, lat, lng) {
     selectedState <-
-      yearFilterAnnual()[yearFilterAnnual()$State == state, ]
+      yearFilterAnnual()[yearFilterAnnual()$State == state,]
     content <- as.character(tagList(
       tags$h2(state),
       tags$h3("Year:", as.integer(selectedState$Year)),
@@ -174,15 +154,12 @@ function(input, output, session) {
   
   
   ## State Data Explorer  #################
+  
   explorestatedatafilter <- reactive({
     cdcAnnualData %>%
       filter(
-        #        input$usstates == "" | State == input$usstates  ,
-        is.null(input$usstates) | State %in% input$usstates
-        #,
-        #        input$explorerstateyears =="" | Year == input$explorerstateyears
-        #      is.null(input$explorerstateyears) | Year %in% input$explorerstateyears)
-      )
+        is.null(input$usstates) | State %in% input$usstates)
+
   })
     
     output$scatterExplorerStateDeaths <- renderPlot({
@@ -190,8 +167,7 @@ function(input, output, session) {
         nrow(explorestatedatafilter()) != 0,
         'No data Available for this Year/State'
       ))
-      #if (NROW(explorestatedatafilter()) == 0)
-      #  return(NULL)
+
       plotdata <-
         explorestatedatafilter() #%>% group_by(Year)%>% select(State,Year,Deaths)
       ggplot(plotdata) +
@@ -283,7 +259,7 @@ function(input, output, session) {
       
     })
     output$scatterExplorerDeaths <- renderPlot({
-      if (NROW(exploredatafilter()) == 0)
+      if (nrow(exploredatafilter()) == 0)
         return(NULL)
       
       plotdata <-
@@ -297,12 +273,18 @@ function(input, output, session) {
     
     
     output$cdctable <- DT::renderDataTable({
-      str(exploredatafilter())
-      df <-   exploredatafilter() %>% arrange(desc(Year)) %>%
-        mutate (PercentChange =  format((Deaths - lead(Deaths)) * 100 / lead(Deaths),
-                                        big_mark = "," ,
-                                        digits = 2
-        )) %>%
+
+      df <-   exploredatafilter() %>% arrange(desc(Year))
+      if (input$states != "")
+      {
+        df <-
+          df %>%  mutate (PercentChange =  format((Deaths - lead(Deaths)) * 100 / lead(Deaths),
+                                                  big_mark = "," ,
+                                                  digits = 2
+          ))
+      }
+      
+      df <- df %>%
         mutate(
           Action = paste(
             '<a class="go-map" href="" data-lat="',
