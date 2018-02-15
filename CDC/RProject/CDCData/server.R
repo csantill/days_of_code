@@ -274,7 +274,7 @@ function(input, output, session) {
     
     output$cdctable <- DT::renderDataTable({
 
-      df <-   exploredatafilter() %>% arrange(desc(Year))
+      df <-   exploredatafilter() %>% arrange(desc(Year)) %>% select (State,Year,Deaths,Population,Crude.Rate)
       if (input$states != "")
       {
         df <-
@@ -284,21 +284,21 @@ function(input, output, session) {
           ))
       }
       
-      df <- df %>%
-        mutate(
-          Action = paste(
-            '<a class="go-map" href="" data-lat="',
-            Lat,
-            '" data-long="',
-            Long,
-            '" data-state="',
-            State,
-            '" data-year="',
-            Year,
-            '"><i class="fa fa-crosshairs"></i></a>',
-            sep = ""
-          )
-        )
+      # df <- df %>%
+      #   mutate(
+      #     Action = paste(
+      #       '<a class="go-map" href="" data-lat="',
+      #       Lat,
+      #       '" data-long="',
+      #       Long,
+      #       '" data-state="',
+      #       State,
+      #       '" data-year="',
+      #       Year,
+      #       '"><i class="fa fa-crosshairs"></i></a>',
+      #       sep = ""
+      #     )
+      #   )
       action <- DT::dataTableAjax(session, df)
       
       DT::datatable(df,

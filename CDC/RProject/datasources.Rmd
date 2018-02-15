@@ -37,7 +37,7 @@ The National Vital Statistics System multiple cause-of-death mortality files wer
    
 * X60–64 Suicide
 
-   * X60 (Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics)
+    * X60 (Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics)
     * X61 (Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified)
     * X62 (Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified)
     * X63 (Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system) 

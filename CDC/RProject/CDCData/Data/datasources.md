@@ -1,5 +1,5 @@
-Analysis of Opiod drug overdoses data from the CDC
-==================================================
+Analysis of Opiod drug overdoses data
+=====================================
 
 Carlos Santillan
 
@@ -35,8 +35,8 @@ intent).
         unspecified drugs, medicaments and biological substances)
 -   X60–64 Suicide
 
--   X60 (Intentional self-poisoning by and exposure to nonopioid
-    analgesics, antipyretics and antirheumatics)
+    -   X60 (Intentional self-poisoning by and exposure to nonopioid
+        analgesics, antipyretics and antirheumatics)
     -   X61 (Intentional self-poisoning by and exposure to
         antiepileptic, sedative-hypnotic, antiparkinsonism and
         psychotropic drugs, not elsewhere classified)
@@ -46,6 +46,7 @@ intent).
         acting on the autonomic nervous system)
     -   X64 (Intentional self-poisoning by and exposure to other and
         unspecified drugs, medicaments and biological substances)
+
 -   Y10–Y14 Undetermined intent
     -   Y10 (Poisoning by and exposure to nonopioid analgesics,
         antipyretics and antirheumatics, undetermined intent)
