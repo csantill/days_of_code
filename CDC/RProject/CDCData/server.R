@@ -3,7 +3,7 @@ library(RColorBrewer)
 library(scales)
 library(lattice)
 library(dplyr)
-
+library(sf)
 
 
 function(input, output, session) {
@@ -113,20 +113,31 @@ function(input, output, session) {
       left_join(state.geom, by = c('State' = 'name')) %>%
       select(State, Deaths, Lat = latitude, Long = longitude)
     
+    #str(stategeoms)
+    #print("next")
+      stategeomsJoined<- sp::merge(stategeoms,yearFilterAnnual(),by.x='name',by.y='State')
+   # sfstategeoms<-st_as_sf(stategeoms)
+    #stategeomsJoined <-  yearFilterAnnual() %>%  left_join(sfstategeoms,by=c('State'='name')) %>% st_cast(to = "POLYGON")
+    
+    #stgeomsJOined <- sf_as_st(stategeomsJoined)
+    #str(stategeomsJoined)
+    bins <- c(-Inf,-10.0,-3.0,0, 1.0,  3.0,5.0,10.0,Inf)
+    print(head(stategeomsJoined$PercentChange))
+    pal <- colorNumeric("YlOrRd", domain = stategeomsJoined$PercentChange)
+    #print(pal)
     radius <-
       agg_data[["Deaths"]] / sum(agg_data[["Deaths"]]) * 2300000
-    leafletProxy("map", data = agg_data) %>%
-      clearShapes() %>% addPolygons(data=stategeoms, weight = 2,
-                                    opacity = 1,
+    leafletProxy("map", data = agg_data) %>% clearControls() %>%
+      clearShapes() %>% addPolygons(data=stategeomsJoined, 
+                                    weight = 2,
+                                    fill=~pal(PercentChange),
+                                    opacity = .5,
                                     color = "white",
                                     dashArray = "3",
-                                    fillOpacity = 0.7, highlight = highlightOptions(
-                                      weight = 5,
-                                      color = "666",
-                                      dashArray = "",
-                                      fillOpacity = 0.7,
-                                      bringToFront = TRUE)) %>%
-    #  clearGroup("Circles") %>%
+                                    fillOpacity = .6) %>%
+      addLegend(pal = pal, values = ~stategeomsJoined$PercentChange, opacity = 0.7, title = NULL,
+                                                                     position = "bottomleft") %>%
+      clearGroup("Circles") %>%
       addCircles(
         ~ Long,
         ~ Lat,
@@ -303,14 +314,12 @@ function(input, output, session) {
     
     output$cdctable <- DT::renderDataTable({
 
-      df <-   exploredatafilter() %>% arrange(desc(Year)) %>% select (State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate)
+      df <-   exploredatafilter() %>% arrange(desc(Year)) %>% select (State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate,PercentChange)
       if (input$states != "")
       {
-        df <-
-          df %>%  mutate (PercentChange =  format((Deaths - lead(Deaths)) * 100 / lead(Deaths),
-                                                  big_mark = "," ,
-                                                  digits = 2
-          ))
+      #  df <-
+      #    df %>%  mutate (PercentChange =  format((Deaths - lead(Deaths)) * 100 / lead(Deaths),
+      #                                            big_mark = "," ,  digits = 2))
       }
       
       # df <- df %>%
