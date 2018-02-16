@@ -26,3 +26,10 @@ ggtitle("Deaths attributed to opiods")
 
 cdc2 <- cdc %>% filter(Year=="1998")
 
+
+library(geojsonio )
+
+
+states <- geojsonio::geojson_read("json/us-states.geojson", what = "sp")
+class(states)
+

@@ -14,7 +14,7 @@ library(DT)
 
 
 navbarPage(
-  "CDC Opiod Deaths",
+  "Multple Cause of Deaths attribute to Opids",
   id = "nav",
   
   tabPanel(

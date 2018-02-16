@@ -917,22 +917,21 @@
 	"Wyoming"	"56"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	108	584153	18.5	19.2
 	"Wyoming"	"56"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	96	586107	16.4	16.4
 	"Wyoming"	"56"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	98	585501	16.7	17.4
-	"US Aggregated" "1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	16809	279040168	6.0	6.0
-	"US Aggregated" "2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	17384	281421906	6.2	6.2
-	"US Aggregated" "2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	19352	284968955	6.8	6.8
-	"US Aggregated" "2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	23475	287625193	8.2	8.2
-	"US Aggregated" "2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	25737	290107933	8.9	8.9
-	"US Aggregated" "2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	27352	292805298	9.3	9.3
-	"US Aggregated" "2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	29756	295516599	10.1	10.0
-	"US Aggregated" "2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	34350	298379912	11.5	11.5
-	"US Aggregated" "2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	35949	301231207	11.9	11.9
-	"US Aggregated" "2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	36382	304093966	12.0	11.9
-	"US Aggregated" "2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	36934	306771529	12.0	11.9
-	"US Aggregated" "2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	38267	308745538	12.4	12.3
-	"US Aggregated" "2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	41260	311591917	13.2	13.2
-	"US Aggregated" "2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	41422	313914040	13.2	13.1
-	"US Aggregated" "2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	43896	316128839	13.9	13.8
-	"US Aggregated" "2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	46974	318857056	14.7	14.7
-	"US Aggregated" "2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	52311	321418820	16.3	16.3
-	"US Aggregated" "2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	63522	323127513	19.7	19.7
-	
+	"US Aggregated"	"00"	"1999"	"1999"	"External causes of morbidity and mortality"	"V01-Y89"	16809	279040168	6.0	6.0
+	"US Aggregated"	"00"	"2000"	"2000"	"External causes of morbidity and mortality"	"V01-Y89"	17384	281421906	6.2	6.2
+	"US Aggregated"	"00"	"2001"	"2001"	"External causes of morbidity and mortality"	"V01-Y89"	19352	284968955	6.8	6.8
+	"US Aggregated"	"00"	"2002"	"2002"	"External causes of morbidity and mortality"	"V01-Y89"	23475	287625193	8.2	8.2
+	"US Aggregated"	"00"	"2003"	"2003"	"External causes of morbidity and mortality"	"V01-Y89"	25737	290107933	8.9	8.9
+	"US Aggregated"	"00"	"2004"	"2004"	"External causes of morbidity and mortality"	"V01-Y89"	27352	292805298	9.3	9.3
+	"US Aggregated"	"00"	"2005"	"2005"	"External causes of morbidity and mortality"	"V01-Y89"	29756	295516599	10.1	10.0
+	"US Aggregated"	"00"	"2006"	"2006"	"External causes of morbidity and mortality"	"V01-Y89"	34350	298379912	11.5	11.5
+	"US Aggregated"	"00"	"2007"	"2007"	"External causes of morbidity and mortality"	"V01-Y89"	35949	301231207	11.9	11.9
+	"US Aggregated"	"00"	"2008"	"2008"	"External causes of morbidity and mortality"	"V01-Y89"	36382	304093966	12.0	11.9
+	"US Aggregated"	"00"	"2009"	"2009"	"External causes of morbidity and mortality"	"V01-Y89"	36934	306771529	12.0	11.9
+	"US Aggregated"	"00"	"2010"	"2010"	"External causes of morbidity and mortality"	"V01-Y89"	38267	308745538	12.4	12.3
+	"US Aggregated"	"00"	"2011"	"2011"	"External causes of morbidity and mortality"	"V01-Y89"	41260	311591917	13.2	13.2
+	"US Aggregated"	"00"	"2012"	"2012"	"External causes of morbidity and mortality"	"V01-Y89"	41422	313914040	13.2	13.1
+	"US Aggregated"	"00"	"2013"	"2013"	"External causes of morbidity and mortality"	"V01-Y89"	43896	316128839	13.9	13.8
+	"US Aggregated"	"00"	"2014"	"2014"	"External causes of morbidity and mortality"	"V01-Y89"	46974	318857056	14.7	14.7
+	"US Aggregated"	"00"	"2015"	"2015"	"External causes of morbidity and mortality"	"V01-Y89"	52311	321418820	16.3	16.3
+	"US Aggregated"	"00"	"2016"	"2016"	"External causes of morbidity and mortality"	"V01-Y89"	63522	323127513	19.7	19.7

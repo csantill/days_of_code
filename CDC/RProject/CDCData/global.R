@@ -2,12 +2,13 @@ library(tidyverse)
 library(ggplot2)
 library(fiftystater)
 library(leaflet)
+library(geojsonio)
 
 setwd("F:/Development/days_of_code/CDC/RProject/CDCData")
 cdcMonthlyStateData <- readRDS("Data/cdcMonthlyStateData.rds")
 
 cdcAnnualData <- readRDS("Data/cdcAnnualData.rds")
-
+stategeoms <- geojsonio::geojson_read("Data/us-states.geojson", what = "sp")
 state.geom <- readRDS("Data/state_geom.rds")
 States<- cdcAnnualData %>% distinct(State)
 Years<-  cdcAnnualData %>% distinct(Year) %>% mutate_all(as.character)

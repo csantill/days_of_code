@@ -2,7 +2,8 @@
 title: "Days of Code Austin 2018"
 author: "Carlos Santillan"
 date: "February 10, 2018"
-output:   md_document
+#output:   md_document
+output:   html_document
 ---
 # Analysis of Opiod drug overdoses data from the CDC
 
@@ -128,6 +129,8 @@ colnames(cdcAnnualData) <- make.names(colnames(cdcAnnualData)) # Set standard na
 cdcAnnualData$Notes  <- cdcAnnualData$Notes <- NULL
 cdcAnnualData$Year<- as.character(cdcAnnualData$Year)
 
+#str(cdcAnnualData)
+
 cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate)
 
 # Calculate the US totals
@@ -149,7 +152,7 @@ saveRDS(state.geom,"state_geom.rds")
 # Join geocoordinates with CDC data
 
 cdcAnnualData <- left_join(cdcAnnualData,state.geom,by=c('State'='name'))
-cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate,Lat=latitude,Long=longitude)
+cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate,Lat=latitude,Long=longitude)
 saveRDS(cdcAnnualData,"cdcAnnualData.rds")
 cdcMonthlyStateData <- left_join(cdcMonthlyStateData,state.geom,by=c('State'='name'))
 cdcMonthlyStateData <- cdcMonthlyStateData %>% select(State,YearMonth,Year,Month.Code,Deaths,Lat=latitude,Long=longitude)

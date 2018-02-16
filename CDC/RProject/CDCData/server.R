@@ -11,7 +11,20 @@ function(input, output, session) {
   
   # Create the map
   output$map <- renderLeaflet({
-    leaflet() %>%
+    leaflet(stategeoms) %>% 
+      addPolygons(  weight = 2,
+                    opacity = 1,
+                    color = "white",
+                    dashArray = "3",
+                    fillOpacity = 0.7
+                    # ,
+                    # highlight = highlightOptions(
+                    #   weight = 5,
+                    #   color = "#666",
+                    #   dashArray = "",
+                    #   fillOpacity = 0.7,
+                    #   bringToFront = TRUE)
+                    ) %>%
       addTiles(urlTemplate = "//{s}.tiles.mapbox.com/v3/jcheng.map-5ebohr46/{z}/{x}/{y}.png",
                attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>') %>%
       setView(lng = -93.85,
@@ -69,7 +82,7 @@ function(input, output, session) {
   })
   
   output$scatterDeaths <- renderPlot({
-    validate(need(
+    shiny::validate(need(
       nrow(MonthlyDataStateFilter()) != 0,
       'No data Available for this Year/State'
     ))
@@ -103,15 +116,26 @@ function(input, output, session) {
     radius <-
       agg_data[["Deaths"]] / sum(agg_data[["Deaths"]]) * 2300000
     leafletProxy("map", data = agg_data) %>%
-      clearShapes() %>%
+      clearShapes() %>% addPolygons(data=stategeoms, weight = 2,
+                                    opacity = 1,
+                                    color = "white",
+                                    dashArray = "3",
+                                    fillOpacity = 0.7, highlight = highlightOptions(
+                                      weight = 5,
+                                      color = "666",
+                                      dashArray = "",
+                                      fillOpacity = 0.7,
+                                      bringToFront = TRUE)) %>%
+    #  clearGroup("Circles") %>%
       addCircles(
         ~ Long,
         ~ Lat,
+        group = "Circles",
         radius = radius,
         layerId =  ~ State,
         stroke = FALSE,
         fillOpacity = 0.4
-      )
+      )  
     
   })
   
@@ -126,8 +150,12 @@ function(input, output, session) {
   }
   # Show a popup at the given location
   showStatePopup <- function(state, lat, lng) {
+    #str(yearFilterAnnual())
+    #print(state)
     selectedState <-
-      yearFilterAnnual()[yearFilterAnnual()$State == state,]
+      yearFilterAnnual()[yearFilterAnnual()$State == input$monthlyState,]
+    if (nrow(selectedState) != 1 ) 
+      return (NULL)
     content <- as.character(tagList(
       tags$h2(state),
       tags$h3("Year:", as.integer(selectedState$Year)),
@@ -135,7 +163,8 @@ function(input, output, session) {
         selectedState$Deaths
       ))) ,
       tags$h4("Population:", PrettyNumbers(selectedState$Population)) ,
-      tags$h4("Crude Rate:", selectedState$Crude.Rate)
+      tags$h4("Crude Rate:", selectedState$Crude.Rate),
+      tags$h4("Adjusted Crude Rate:", selectedState$Age.Adjusted.Rate)
     ))
     leafletProxy("map") %>% addPopups(lng, lat, content, layerId = state)
   }
@@ -163,7 +192,7 @@ function(input, output, session) {
   })
     
     output$scatterExplorerStateDeaths <- renderPlot({
-      validate(need(
+      shiny::validate(need(
         nrow(explorestatedatafilter()) != 0,
         'No data Available for this Year/State'
       ))
@@ -192,7 +221,7 @@ function(input, output, session) {
       if (NROW(explorestatedatafilter()) == 0)
         return(NULL)
       
-      df <-   explorestatedatafilter() %>%
+      df <-   explorestatedatafilter() %>% arrange(desc(Year))%>%
         mutate(
           Action = paste(
             '<a class="go-map" href="" data-lat="',
@@ -274,7 +303,7 @@ function(input, output, session) {
     
     output$cdctable <- DT::renderDataTable({
 
-      df <-   exploredatafilter() %>% arrange(desc(Year)) %>% select (State,Year,Deaths,Population,Crude.Rate)
+      df <-   exploredatafilter() %>% arrange(desc(Year)) %>% select (State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate)
       if (input$states != "")
       {
         df <-

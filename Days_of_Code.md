@@ -148,14 +148,23 @@ CDC Data was generated from the following Query
     ##   Notes = col_character(),
     ##   State = col_character(),
     ##   `State Code` = col_character(),
-    ##   Year = col_integer(),
-    ##   `Year Code` = col_integer(),
+    ##   Year = col_character(),
+    ##   `Year Code` = col_character(),
     ##   `ICD Chapter` = col_character(),
     ##   `ICD Chapter Code` = col_character(),
-    ##   Deaths = col_integer(),
-    ##   Population = col_integer(),
-    ##   `Crude Rate` = col_character()
+    ##   Deaths = col_double(),
+    ##   Population = col_double(),
+    ##   `Crude Rate` = col_character(),
+    ##   `Age Adjusted Rate` = col_character()
     ## )
+
+    ## Warning in rbind(names(probs), probs_f): number of columns of result is not
+    ## a multiple of vector length (arg 1)
+
+    ## Warning: 55 parsing failures.
+    ## row # A tibble: 5 x 5 col     row col   expected           actual    file                            expected   <int> <chr> <chr>              <chr>     <chr>                           actual 1   919 State delimiter or quote " "       'CDC/data/statefull_annual2.tx~ file 2   919 State delimiter or quote 1         'CDC/data/statefull_annual2.tx~ row 3   919 <NA>  11 columns         9 columns 'CDC/data/statefull_annual2.tx~ col 4   920 State delimiter or quote " "       'CDC/data/statefull_annual2.tx~ expected 5   920 State delimiter or quote 2         'CDC/data/statefull_annual2.tx~
+    ## ... ................. ... .......................................................................... ........ .......................................................................... ...... .......................................................................... .... .......................................................................... ... .......................................................................... ... .......................................................................... ........ ..........................................................................
+    ## See problems(...) for more details.
 
 Load Geo data
 -------------
@@ -242,99 +251,117 @@ Latitudeo and Longitude Coordinates for each state were downloaded from
 </thead>
 <tbody>
 <tr class="odd">
+<td align="left">External causes of morbidity and mortality</td>
+<td align="right">206.3</td>
+<td align="right">-99.6752306</td>
+</tr>
+<tr class="even">
 <td align="left">2016</td>
-<td align="right">127,044</td>
+<td align="right">63,522.0</td>
 <td align="right">21.4314389</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2015</td>
-<td align="right">104,622</td>
+<td align="right">52,311.0</td>
 <td align="right">11.3616043</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2014</td>
-<td align="right">93,948</td>
+<td align="right">46,974.0</td>
 <td align="right">7.0120284</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2013</td>
-<td align="right">87,792</td>
+<td align="right">43,896.0</td>
 <td align="right">5.9726715</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2012</td>
-<td align="right">82,844</td>
+<td align="right">41,422.0</td>
 <td align="right">0.3926321</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2011</td>
-<td align="right">82,520</td>
+<td align="right">41,260.0</td>
 <td align="right">7.8213604</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2010</td>
-<td align="right">76,534</td>
+<td align="right">38,267.0</td>
 <td align="right">3.6091406</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2009</td>
-<td align="right">73,868</td>
+<td align="right">36,934.0</td>
 <td align="right">1.5172338</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2008</td>
-<td align="right">72,764</td>
+<td align="right">36,382.0</td>
 <td align="right">1.2044841</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2007</td>
-<td align="right">71,898</td>
+<td align="right">35,949.0</td>
 <td align="right">4.6550218</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2006</td>
-<td align="right">68,700</td>
+<td align="right">34,350.0</td>
 <td align="right">15.4389031</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2005</td>
-<td align="right">59,512</td>
+<td align="right">29,756.0</td>
 <td align="right">8.7891196</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2004</td>
-<td align="right">54,704</td>
+<td align="right">27,352.0</td>
 <td align="right">6.2750126</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2003</td>
-<td align="right">51,474</td>
+<td align="right">25,737.0</td>
 <td align="right">9.6357827</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2002</td>
-<td align="right">46,950</td>
+<td align="right">23,475.0</td>
 <td align="right">21.3052914</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2001</td>
-<td align="right">38,704</td>
+<td align="right">19,352.0</td>
 <td align="right">11.3207547</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2000</td>
-<td align="right">34,768</td>
+<td align="right">17,384.0</td>
 <td align="right">3.4207865</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1999</td>
-<td align="right">33,618</td>
+<td align="right">16,809.0</td>
+<td align="right">NA</td>
+</tr>
+<tr class="even">
+<td align="left">NA</td>
+<td align="right">NA</td>
 <td align="right">NA</td>
 </tr>
 </tbody>
 </table>
 
-![](Days_of_Code_files/figure-markdown_strict/plottus-1.png)![](Days_of_Code_files/figure-markdown_strict/plottus-2.png)
+    ## Warning: Removed 1 rows containing missing values (geom_point).
+
+![](Days_of_Code_files/figure-markdown_strict/plottus-1.png)
+
+    ## Warning: Removed 1 rows containing non-finite values (stat_smooth).
+
+    ## Warning: Removed 1 rows containing missing values (geom_path).
+
+![](Days_of_Code_files/figure-markdown_strict/plottus-2.png)
 
 <table>
 <caption>States with Highest number of deaths for 2016</caption>
@@ -346,28 +373,28 @@ Latitudeo and Longitude Coordinates for each state were downloaded from
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">US Aggregated</td>
-<td align="right">63,522</td>
-</tr>
-<tr class="even">
 <td align="left">Florida</td>
 <td align="right">4,724</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">California</td>
 <td align="right">4,649</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Pennsylvania</td>
 <td align="right">4,609</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Ohio</td>
 <td align="right">4,318</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">New York</td>
 <td align="right">3,636</td>
+</tr>
+<tr class="even">
+<td align="left">Texas</td>
+<td align="right">2,822</td>
 </tr>
 </tbody>
 </table>
