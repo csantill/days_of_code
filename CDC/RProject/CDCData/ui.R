@@ -62,10 +62,9 @@ navbarPage(
     )),
 
     hr(),
-    plotOutput("scatterExplorerStateDeaths", height = 300),
+    plotOutput("scatterExplorerStateRate", height = 400),
     hr(),
-    plotOutput("scatterExplorerStateRate", height = 300),
-    
+    plotOutput("scatterExplorerStateDeaths", height = 300),    
     hr(),
     DT::dataTableOutput("cdcStatetable")
     
