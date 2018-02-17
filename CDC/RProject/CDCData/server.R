@@ -184,13 +184,13 @@ function(input, output, session) {
     p2 <- ggplot(plotdata) +
       geom_line(mapping = aes(
         x = Year,
-        y = (Crude.Rate),
+        y = as.numeric(Crude.Rate),
         group = State,
         color = State
       )) +
       geom_smooth(mapping = aes(
         x = Year,
-        y = (Crude.Rate),
+        y = as.numeric(Crude.Rate),
         
         group = State,
         color = State
