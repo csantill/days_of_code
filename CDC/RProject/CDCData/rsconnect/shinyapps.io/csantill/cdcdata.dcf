@@ -5,6 +5,6 @@ account: csantill
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 283631
-bundleId: 1227689
+bundleId: 1227898
 url: https://csantill.shinyapps.io/cdcdata/
-when: 1518887738.95823
+when: 1518898830.26025

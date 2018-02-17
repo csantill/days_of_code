@@ -72,18 +72,19 @@ function(input, output, session) {
     df <- yearFilterAnnual() 
     df$PercentChange <- as.numeric(df$PercentChange)
     stategeomsJoined<- sp::merge(stategeoms,df,by.x='name',by.y='State')
-
-    pal <- colorQuantile("OrRd", stategeomsJoined$PercentChange,n=7)
+    vals <- c(as.numeric(stategeomsJoined$PercentChange))
+    #print(vals)
+    pal <- colorNumeric("OrRd", c(vals),n=8)
     map <- leafletProxy("map")
     map %>%  clearControls() %>% addPolygons(data=stategeomsJoined,
-                        fillColor = ~pal(PercentChange),
+                        fillColor = ~pal(vals),
                         weight = 2,
                         opacity = 1,
                         color = "white",
                         dashArray = "3",
                         fillOpacity = 0.7)  %>% 
-            addLegend(pal = pal, values = stategeomsJoined$PercentChange, opacity = 0.7, title = "% Change",
-                      position = "bottomright")
+            addLegend(pal = pal, values =  vals, opacity = 0.7, title = "% Change",
+                      position = "bottomleft")
   })
   
   output$scatterDeaths <- renderPlot({
