@@ -83,8 +83,8 @@ function(input, output, session) {
                         color = "white",
                         dashArray = "3",
                         fillOpacity = 0.7)  %>% 
-            addLegend(pal = pal, values =  vals, opacity = 0.7, title = "% Change",
-                      position = "bottomleft")
+                        addLegend(pal = pal, values =  vals, opacity = 0.7, title = "% Change",
+                        position = "bottomleft")
   })
   
   output$scatterDeaths <- renderPlot({
@@ -177,16 +177,36 @@ function(input, output, session) {
       filter(is.null(input$usstates) | State %in% input$usstates)
 
   })
+  
+  output$scatterExplorerStateRate <- renderPlot({
+    plotdata <-  explorestatedatafilter() 
     
+    p2 <- ggplot(plotdata) +
+      geom_line(mapping = aes(
+        x = Year,
+        y = (Crude.Rate),
+        group = State,
+        color = State
+      )) +
+      geom_smooth(mapping = aes(
+        x = Year,
+        y = (Crude.Rate),
+        
+        group = State,
+        color = State
+      ),method='loess',se=FALSE) +
+      ggtitle("Crude rate for opiod overdose")
+    p2 
+  })  
+  
     output$scatterExplorerStateDeaths <- renderPlot({
       shiny::validate(need(
         nrow(explorestatedatafilter()) != 0,
         'No data Available for this Year/State'
       ))
 
-      plotdata <-
-        explorestatedatafilter() 
-      ggplot(plotdata) +
+      plotdata <-  explorestatedatafilter() 
+      p1 <- ggplot(plotdata) +
         geom_line(mapping = aes(
           x = Year,
           y = (Deaths),
@@ -196,12 +216,17 @@ function(input, output, session) {
         geom_smooth(mapping = aes(
           x = Year,
           y = (Deaths),
-          group = State,
+          group = State,      
           color = State
-        )) +
+        ),method= "loess",se=FALSE) +
         ggtitle("Deaths attributed to opiod overdose")
+      
+      
+      p1
+      
     })
     
+ 
     output$cdcStatetable <- DT::renderDataTable({
       if (NROW(explorestatedatafilter()) == 0)
         return(NULL)
@@ -282,8 +307,6 @@ function(input, output, session) {
         stat_smooth(method = "loess", show.legend = TRUE) +
         ggtitle("Deaths attributed to opiod overdose")
     })
-    
-    
     
     output$cdctable <- DT::renderDataTable({
 
