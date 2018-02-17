@@ -38,7 +38,7 @@ navbarPage(
         left = "auto",
         right = 20,
         bottom = "auto",
-        width = 400,
+        width = 300,
         height = "auto",
         
         h2("CDC"),

@@ -169,7 +169,7 @@ function(input, output, session) {
       tags$h2(state),
       tags$h3("Year:", as.integer(selectedState$Year)),
       tags$p("Deaths:", PrettyNumbers(as.integer(selectedState$Deaths))) ,
-      tags$p("% change:", PrettyNumbers(selectedState$PercentChange)), 
+      tags$p("%change:", PrettyNumbers(selectedState$PercentChange)), 
       tags$p("Population:", PrettyNumbers(selectedState$Population)) ,
       tags$p("Crude Rate:", selectedState$Crude.Rate),
       tags$p("Adjusted Crude Rate:", selectedState$Age.Adjusted.Rate)
