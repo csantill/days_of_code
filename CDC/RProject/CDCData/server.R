@@ -69,9 +69,6 @@ function(input, output, session) {
   
   yearAddPolyAnnual <- reactive({
     YearBy <- input$year
-    #cdcAnnualData %>% filter(Year == YearBy)
-    #print("in here")
-    
     df <- yearFilterAnnual() 
     df$PercentChange <- as.numeric(df$PercentChange)
     stategeomsJoined<- sp::merge(stategeoms,df,by.x='name',by.y='State')
@@ -87,8 +84,6 @@ function(input, output, session) {
                         fillOpacity = 0.7)  %>% 
             addLegend(pal = pal, values = stategeomsJoined$PercentChange, opacity = 0.7, title = "% Change",
                       position = "bottomright")
-
-
   })
   
   output$scatterDeaths <- renderPlot({
@@ -104,7 +99,7 @@ function(input, output, session) {
       stat_smooth(method = "loess") +
       ggtitle(
         paste(
-          "Deaths attributed to opiods in the state of" ,
+          "Deaths attributed to opiod overdose in the state of" ,
           input$monthlyState,
           sep = " "
         ),
@@ -115,7 +110,6 @@ function(input, output, session) {
   
   # This observer is responsible for maintaining the circles
   observe({
-   # YearBy <- input$year
     yearAddPolyAnnual()
     agg_data <- yearFilter() %>% group_by(State) %>%
                 summarise(Deaths = sum(Deaths))  %>%
@@ -190,9 +184,8 @@ function(input, output, session) {
       ))
 
       plotdata <-
-        explorestatedatafilter() #%>% group_by(Year)%>% select(State,Year,Deaths)
+        explorestatedatafilter() 
       ggplot(plotdata) +
-        #    geom_bar(stat="identity") +
         geom_line(mapping = aes(
           x = Year,
           y = (Deaths),
@@ -205,7 +198,7 @@ function(input, output, session) {
           group = State,
           color = State
         )) +
-        ggtitle("Deaths attributed to opiods")
+        ggtitle("Deaths attributed to opiod overdose")
     })
     
     output$cdcStatetable <- DT::renderDataTable({
@@ -286,7 +279,7 @@ function(input, output, session) {
       ggplot(plotdata, aes(x = Year, y = Deaths, group = 1)) +
         geom_line(stat = "identity") +
         stat_smooth(method = "loess", show.legend = TRUE) +
-        ggtitle("Deaths attributed to opiods")
+        ggtitle("Deaths attributed to opiod overdose")
     })
     
     
@@ -294,28 +287,7 @@ function(input, output, session) {
     output$cdctable <- DT::renderDataTable({
 
       df <-   exploredatafilter() %>% arrange(desc(Year)) %>% select (State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate,PercentChange)
-      if (input$states != "")
-      {
-      #  df <-
-      #    df %>%  mutate (PercentChange =  format((Deaths - lead(Deaths)) * 100 / lead(Deaths),
-      #                                            big_mark = "," ,  digits = 2))
-      }
-      
-      # df <- df %>%
-      #   mutate(
-      #     Action = paste(
-      #       '<a class="go-map" href="" data-lat="',
-      #       Lat,
-      #       '" data-long="',
-      #       Long,
-      #       '" data-state="',
-      #       State,
-      #       '" data-year="',
-      #       Year,
-      #       '"><i class="fa fa-crosshairs"></i></a>',
-      #       sep = ""
-      #     )
-      #   )
+
       action <- DT::dataTableAjax(session, df)
       
       DT::datatable(df,

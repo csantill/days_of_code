@@ -1,20 +1,12 @@
-#
-# This is the user-interface definition of a Shiny web application. You can
-# run the application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
 
 library(shiny)
 library(DT)
 
-# Define UI for application that draws a histogram
+
 
 
 navbarPage(
-  "Multple Cause of Deaths attribute to Opids",
+  "Deaths attribute to Opioid overdose",
   id = "nav",
   
   tabPanel(
@@ -51,7 +43,7 @@ navbarPage(
         id = "cite",
         'Data are from the Multiple Cause of Death Files, 1999-2016, as ',
         'compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program.',
-        'Accessed at http://wonder.cdc.gov/ucd-icd10.html on Feb 10, 2018 4:36:12 PM '
+        'Accessed at http://wonder.cdc.gov/ucd-icd10.html '
       )
     )
   ),
@@ -68,11 +60,7 @@ navbarPage(
         multiple = TRUE
       )
     )),
-    # fluidRow(
-    #     column(3,
-    #            selectInput("explorerstateyears", "Years", c("All Years"="",Years), selected="All Years",multiple=FALSE )
-    #     )
-    #   ),
+
     hr(),
     plotOutput("scatterExplorerStateDeaths", height = 300),
     hr(),
@@ -95,7 +83,6 @@ navbarPage(
     "Data Sources",
     fluidRow(    
       column(12,includeMarkdown("Data/datasources.md")
-      
     ))
   ),
   

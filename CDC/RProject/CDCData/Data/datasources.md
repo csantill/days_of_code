@@ -115,5 +115,7 @@ CDC Data was generated from the following Query
 Load Geo data
 -------------
 
-Latitudeo and Longitude Coordinates for each state were downloaded from
+Latitude and Longitude Coordinates for each state were downloaded from
 <https://inkplant.com/code/state-latitudes-longitudes>
+
+
