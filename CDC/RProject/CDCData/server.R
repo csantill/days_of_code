@@ -70,32 +70,32 @@ function(input, output, session) {
   yearAddPolyAnnual <- reactive({
     YearBy <- input$year
     #cdcAnnualData %>% filter(Year == YearBy)
+    print("in here")
     
-    
-    df <- yearFilterAnnual() %>% select(PercentChange,State)
-    #str(stategeoms)
-    #print("next")
+    df <- yearFilterAnnual() 
+    df$PercentChange <- as.numeric(df$PercentChange)
+    print(df)
     stategeomsJoined<- sp::merge(stategeoms,df,by.x='name',by.y='State')
-    # sfstategeoms<-st_as_sf(stategeoms)
-    #stategeomsJoined <-  yearFilterAnnual() %>%  left_join(sfstategeoms,by=c('State'='name')) %>% st_cast(to = "POLYGON")
     
-    #stgeomsJOined <- sf_as_st(stategeomsJoined)
-    #str(stategeomsJoined)
-    bins <- c(-Inf,-10.0,-3.0,0, 1.0,  3.0,5.0,10.0,Inf)
-    pal <- colorQuantile("YlOrRd", NULL,n=6)
     
-    # map <- leafletProxy("map")
-    # map %>% addPolygons(data=stategeomsJoined, 
-    #                                 weight = 2,
-    #                                 fill=~pal(PercentChange),
-    #                                 opacity = .5,
-    #                                 color = "white",
-    #                                 dashArray = "3",
-    #                                 fillOpacity =0.6) %>%
-    #   addLegend(pal = pal, values = ~stategeomsJoined$PercentChange, opacity = 0.7, title = NULL,
-    #             position = "bottomleft")
+    bins <- c(0, 1, 3, 5, 10, 12, 14, 15, Inf)
+    pal <- colorBin("YlOrRd", domain = stategeomsJoined$PercentChange, bins = bins)
 
-    
+   # bins <- c(-Inf,-10.0,-3.0,0, 1.0,  3.0,5.0,10.0,Inf)
+   pal <- colorQuantile("YlOrRd", stategeomsJoined$PercentChange,n=7)
+ # pc <- distinct(as.numeric(stategeomsJoined$PercentChange))
+    map <- leafletProxy("map")
+    map %>% addPolygons(data=stategeomsJoined,
+                        fillColor = ~pal(PercentChange),
+                        weight = 2,
+                        opacity = 1,
+                        color = "white",
+                        dashArray = "3",
+                        fillOpacity = 0.7)  %>% 
+      addLegend(pal = pal, values = stategeomsJoined$PercentChange, opacity = 0.7, title = "% Change",
+                position = "bottomright")
+
+
   })
   
   output$scatterDeaths <- renderPlot({
@@ -141,11 +141,10 @@ function(input, output, session) {
 #    print(head(stategeomsJoined$PercentChange))
 #    pal <- colorQuantile("YlOrRd", NULL,n=6)
 #    print(pal)
-    radius <-
-      agg_data[["Deaths"]] / sum(agg_data[["Deaths"]]) * 2300000
+    radius <-  agg_data[["Deaths"]] / sum(agg_data[["Deaths"]]) * 2300000
       leafletProxy("map", data = agg_data) %>% 
-          clearControls() %>%
-          clearShapes()   %>%
+       #   clearControls() %>%
+      #    clearShapes()   %>%
           clearGroup("Circles") %>%
           addCircles(
             ~ Long,
@@ -170,7 +169,7 @@ function(input, output, session) {
   }
   # Show a popup at the given location
   showStatePopup <- function(state, lat, lng) {
-    selectedState <-yearFilterAnnual()[yearFilterAnnual()$State == input$monthlyState,]
+    selectedState <-yearFilterAnnual()[yearFilterAnnual()$State == state,]
     if (nrow(selectedState) != 1 ) 
       return (NULL)
     content <- as.character(tagList(
