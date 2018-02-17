@@ -20,3 +20,4 @@ Months<- cdcMonthlyStateData %>% distinct(Month.Code)
 cdcMonthlyStateData <-cdcMonthlyStateData %>%  left_join(state.geom,by=c('State'='name')) %>% select(
   State,YearMonth,Year,Month.Code,Deaths,Lat=latitude,Long=longitude)
 
+#cdcAnnualData<- sp::merge(stategeoms,cdcAnnualData,by.x='name',by.y='State')
