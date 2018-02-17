@@ -132,7 +132,7 @@ cdcAnnualData$Year<- as.character(cdcAnnualData$Year)
 #str(cdcAnnualData)
 
 cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,Crude.Rate,Age.Adjusted.Rate)
-cdcAnnualData %<>%  arrange(State,desc(Year))  %>% group_by(State) %>%mutate(PercentChange = ((Deaths - lead(Deaths)) * 100 / lead(Deaths)))
+cdcAnnualData %<>%  arrange(State,desc(Year))  %>% group_by(State) %>%mutate(PercentChange = round(((Deaths - lead(Deaths)) * 100 / lead(Deaths)),digits=2))
 
 # Calculate the US totals
 #us_agg_data <- cdcAnnualData %>% group_by(Year)  %>% summarise(Deaths=sum(Deaths), Population = #sum(Population),Crude.Rate = format((sum(Deaths) / sum(Population)) * 100000,  big_mark = "," ,digits = 2))
