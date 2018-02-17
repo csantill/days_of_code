@@ -70,30 +70,23 @@ function(input, output, session) {
   yearAddPolyAnnual <- reactive({
     YearBy <- input$year
     #cdcAnnualData %>% filter(Year == YearBy)
-    print("in here")
+    #print("in here")
     
     df <- yearFilterAnnual() 
     df$PercentChange <- as.numeric(df$PercentChange)
-    print(df)
     stategeomsJoined<- sp::merge(stategeoms,df,by.x='name',by.y='State')
-    
-    
-    bins <- c(0, 1, 3, 5, 10, 12, 14, 15, Inf)
-    pal <- colorBin("YlOrRd", domain = stategeomsJoined$PercentChange, bins = bins)
 
-   # bins <- c(-Inf,-10.0,-3.0,0, 1.0,  3.0,5.0,10.0,Inf)
-   pal <- colorQuantile("YlOrRd", stategeomsJoined$PercentChange,n=7)
- # pc <- distinct(as.numeric(stategeomsJoined$PercentChange))
+    pal <- colorQuantile("OrRd", stategeomsJoined$PercentChange,n=7)
     map <- leafletProxy("map")
-    map %>% addPolygons(data=stategeomsJoined,
+    map %>%  clearControls() %>% addPolygons(data=stategeomsJoined,
                         fillColor = ~pal(PercentChange),
                         weight = 2,
                         opacity = 1,
                         color = "white",
                         dashArray = "3",
                         fillOpacity = 0.7)  %>% 
-      addLegend(pal = pal, values = stategeomsJoined$PercentChange, opacity = 0.7, title = "% Change",
-                position = "bottomright")
+            addLegend(pal = pal, values = stategeomsJoined$PercentChange, opacity = 0.7, title = "% Change",
+                      position = "bottomright")
 
 
   })
@@ -175,11 +168,11 @@ function(input, output, session) {
     content <- as.character(tagList(
       tags$h2(state),
       tags$h3("Year:", as.integer(selectedState$Year)),
-      tags$h4("Deaths:", PrettyNumbers(as.integer(selectedState$Deaths))) ,
-      tags$h4("% change:", PrettyNumbers(selectedState$PercentChange)), 
-      tags$h4("Population:", PrettyNumbers(selectedState$Population)) ,
-      tags$h4("Crude Rate:", selectedState$Crude.Rate),
-      tags$h4("Adjusted Crude Rate:", selectedState$Age.Adjusted.Rate)
+      tags$p("Deaths:", PrettyNumbers(as.integer(selectedState$Deaths))) ,
+      tags$p("% change:", PrettyNumbers(selectedState$PercentChange)), 
+      tags$p("Population:", PrettyNumbers(selectedState$Population)) ,
+      tags$p("Crude Rate:", selectedState$Crude.Rate),
+      tags$p("Adjusted Crude Rate:", selectedState$Age.Adjusted.Rate)
     ))
     leafletProxy("map") %>% addPopups(lng, lat, content, layerId = state)
   }
