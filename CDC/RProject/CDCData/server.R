@@ -41,8 +41,8 @@ function(input, output, session) {
   })
   
   MonthlyDataStateFilter <- reactive({
-    StateBy <- input$monthlyState
-   leafletProxy("map") %>% clearPopups()
+   StateBy <- input$monthlyState
+   #leafletProxy("map") %>% clearPopups()
     
     newfilter <- cdcMonthlyStateData %>%
       filter(
@@ -121,23 +121,9 @@ function(input, output, session) {
                 summarise(Deaths = sum(Deaths))  %>%
                 left_join(state.geom, by = c('State' = 'name')) %>%
                 select(State, Deaths, Lat = latitude, Long = longitude)
-    df <- yearFilterAnnual() %>% select(PercentChange,State)
-    #str(stategeoms)
-    #print("next")
-      stategeomsJoined<- sp::merge(stategeoms,df,by.x='name',by.y='State')
-   # sfstategeoms<-st_as_sf(stategeoms)
-    #stategeomsJoined <-  yearFilterAnnual() %>%  left_join(sfstategeoms,by=c('State'='name')) %>% st_cast(to = "POLYGON")
-    
-    #stgeomsJOined <- sf_as_st(stategeomsJoined)
-    #str(stategeomsJoined)
-#    bins <- c(-Inf,-10.0,-3.0,0, 1.0,  3.0,5.0,10.0,Inf)
-#    print(head(stategeomsJoined$PercentChange))
-#    pal <- colorQuantile("YlOrRd", NULL,n=6)
-#    print(pal)
+  
     radius <-  agg_data[["Deaths"]] / sum(agg_data[["Deaths"]]) * 2300000
       leafletProxy("map", data = agg_data) %>% 
-       #   clearControls() %>%
-      #    clearShapes()   %>%
           clearGroup("Circles") %>%
           addCircles(
             ~ Long,
