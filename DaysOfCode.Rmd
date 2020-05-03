@@ -82,7 +82,8 @@ cdcMonthlyStateData$YearMonth <- paste(cdcMonthlyStateData$Year , cdcMonthlyStat
 cdcMonthlyStateData <- cdcMonthlyStateData %>% select(
   State,YearMonth,Year,Month.Code,Deaths)
 #save the RDS
-saveRDS(cdcMonthlyStateData,"CDC/data/cdcMonthlyStateData.rds")
+saveRDS(cdcMonthlyStateData,"data/cdcMonthlyStateData.rds")
+saveRDS(cdcMonthlyStateData,"shiny/data/cdcMonthlyStateData.rds")
 
 
 ```
@@ -145,15 +146,18 @@ Latitudeo and Longitude  Coordinates for each state were downloaded from https:/
 
 
 ```{r loadGeoData, echo=FALSE}
-state.geom <- read.csv("CDC/data/state_geom.csv")
+state.geom <- read.csv("data/state_geom.csv")
 state.geom$name = as.character(state.geom$name)
-saveRDS(state.geom,"state_geom.rds")
+saveRDS(state.geom,"data/state_geom.rds")
+saveRDS(state.geom,"shiny/data/state_geom.rds")
 
 # Join geocoordinates with CDC data
 
 cdcAnnualData <- left_join(cdcAnnualData,state.geom,by=c('State'='name'))
 cdcAnnualData <- cdcAnnualData %>% select(State,Year,Deaths,Population,PercentChange,Crude.Rate,Age.Adjusted.Rate,Lat=latitude,Long=longitude)
-saveRDS(cdcAnnualData,"CDC/data/cdcAnnualData.rds")
+saveRDS(cdcAnnualData,"data/cdcAnnualData.rds")
+saveRDS(cdcAnnualData,"shiny/data/cdcAnnualData.rds")
+
 cdcMonthlyStateData <- left_join(cdcMonthlyStateData,state.geom,by=c('State'='name'))
 cdcMonthlyStateData <- cdcMonthlyStateData %>% select(State,YearMonth,Year,Month.Code,Deaths,Lat=latitude,Long=longitude)
 
