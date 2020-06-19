@@ -1,31 +1,17 @@
 Analysis of Opiod drug overdoses data from the CDC
 ==================================================
 
+App can be found at
+<a href="https://csantill.shinyapps.io/cdcdata/" class="uri">https://csantill.shinyapps.io/cdcdata/</a>
+
+
 Carlos Santillan
 
 <a href="mailto:csantill@gmail.com" class="email">csantill@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/carlos-santillan/" class="uri">https://www.linkedin.com/in/carlos-santillan/</a>
 
-    ## Warning: package 'knitr' was built under R version 3.6.3
 
-    ## Warning: package 'tidyverse' was built under R version 3.6.3
-
-    ## Warning: package 'ggplot2' was built under R version 3.6.3
-
-    ## Warning: package 'tibble' was built under R version 3.6.3
-
-    ## Warning: package 'tidyr' was built under R version 3.6.3
-
-    ## Warning: package 'readr' was built under R version 3.6.3
-
-    ## Warning: package 'purrr' was built under R version 3.6.3
-
-    ## Warning: package 'dplyr' was built under R version 3.6.3
-
-    ## Warning: package 'stringr' was built under R version 3.6.3
-
-    ## Warning: package 'forcats' was built under R version 3.6.3
 
 Load the data
 -------------
